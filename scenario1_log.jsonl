@@ -1,0 +1,526 @@
+{"utc":"2026-07-21T13:45:34.8570113Z","event":"scenario_init","elapsed":0.000,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"Senaryo 1 baslatildi."}
+{"utc":"2026-07-21T13:45:39.4131406Z","event":"briefing_completed","elapsed":3.342,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"Kullanici brifingi tamamladi."}
+{"utc":"2026-07-21T13:45:44.8843131Z","event":"warning","elapsed":8.803,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Emniyet kemeri bacak/göğüs tokaları sıkılmadan GEVŞEK giyildi!"}
+{"utc":"2026-07-21T13:45:44.8843131Z","event":"harness_equipped_loose","elapsed":8.803,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Emniyet kemeri GEVŞEK/HATALI giyildi!"}
+{"utc":"2026-07-21T13:45:47.3037970Z","event":"harness_pattern_completed","elapsed":11.234,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Kemer tokaları ve bacak bantları buton örüntüsüyle (Sol Grip + Sağ Grip + Trigger) eksiksiz sıkıldı."}
+{"utc":"2026-07-21T13:45:57.8467185Z","event":"lanyard_selected","elapsed":21.776,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Dogru lanyard secildi."}
+{"utc":"2026-07-21T13:46:04.5674191Z","event":"lanyard_selected","elapsed":28.497,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Dogru lanyard secildi."}
+{"utc":"2026-07-21T13:46:08.1088110Z","event":"lanyard_selected","elapsed":32.038,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Dogru lanyard secildi."}
+{"utc":"2026-07-21T13:46:14.3031725Z","event":"lanyard_selected","elapsed":38.233,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Dogru lanyard secildi."}
+{"utc":"2026-07-21T13:52:14.3633130Z","event":"scenario_init","elapsed":0.000,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"Senaryo 1 baslatildi."}
+{"utc":"2026-07-21T13:52:19.3229369Z","event":"mode_selected","elapsed":3.779,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"EĞİTİM MODU seçildi."}
+{"utc":"2026-07-21T13:52:19.3239335Z","event":"briefing_completed","elapsed":3.779,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"Kullanici brifingi tamamladi."}
+{"utc":"2026-07-21T13:52:24.1560326Z","event":"warning","elapsed":8.600,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"Yanlis lanyard/karabina secildi!"}
+{"utc":"2026-07-21T13:52:24.1565364Z","event":"lanyard_selected","elapsed":8.600,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"Yanlis lanyard secildi."}
+{"utc":"2026-07-21T13:52:24.1625427Z","event":"warning","elapsed":8.600,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Emniyet kemeri bacak/göğüs tokaları sıkılmadan GEVŞEK giyildi!"}
+{"utc":"2026-07-21T13:52:24.1625427Z","event":"harness_equipped_loose","elapsed":8.600,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Emniyet kemeri GEVŞEK/HATALI giyildi!"}
+{"utc":"2026-07-21T13:52:28.4087800Z","event":"harness_pattern_completed","elapsed":12.865,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Kemer tokaları ve bacak bantları buton örüntüsüyle (Sol Grip + Sağ Grip + Trigger) eksiksiz sıkıldı."}
+{"utc":"2026-07-21T13:53:43.8013878Z","event":"scenario_init","elapsed":0.000,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"Senaryo 1 baslatildi."}
+{"utc":"2026-07-21T13:53:49.4576669Z","event":"mode_selected","elapsed":4.351,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"EĞİTİM MODU seçildi."}
+{"utc":"2026-07-21T13:53:49.4586813Z","event":"briefing_completed","elapsed":4.351,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"Kullanici brifingi tamamladi."}
+{"utc":"2026-07-21T13:53:55.1495909Z","event":"warning","elapsed":10.032,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Emniyet kemeri bacak/göğüs tokaları sıkılmadan GEVŞEK giyildi!"}
+{"utc":"2026-07-21T13:53:55.1505876Z","event":"harness_equipped_loose","elapsed":10.032,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Emniyet kemeri GEVŞEK/HATALI giyildi!"}
+{"utc":"2026-07-21T13:53:57.1108668Z","event":"harness_pattern_completed","elapsed":12.006,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Kemer tokaları ve bacak bantları buton örüntüsüyle (Sol Grip + Sağ Grip + Trigger) eksiksiz sıkıldı."}
+{"utc":"2026-07-21T13:54:01.2788890Z","event":"lanyard_selected","elapsed":16.172,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Dogru lanyard secildi."}
+{"utc":"2026-07-21T13:54:28.2128414Z","event":"scenario_init","elapsed":0.000,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"Senaryo 1 baslatildi."}
+{"utc":"2026-07-21T13:54:35.9709894Z","event":"mode_selected","elapsed":6.560,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"SINAV MODU seçildi."}
+{"utc":"2026-07-21T13:54:35.9724887Z","event":"briefing_completed","elapsed":6.560,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"Kullanici brifingi tamamladi."}
+{"utc":"2026-07-21T13:54:39.9547595Z","event":"warning","elapsed":10.532,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Emniyet kemeri bacak/göğüs tokaları sıkılmadan GEVŞEK giyildi!"}
+{"utc":"2026-07-21T13:54:39.9547595Z","event":"harness_equipped_loose","elapsed":10.532,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Emniyet kemeri GEVŞEK/HATALI giyildi!"}
+{"utc":"2026-07-21T13:54:42.7203147Z","event":"harness_pattern_completed","elapsed":13.310,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Kemer tokaları ve bacak bantları buton örüntüsüyle (Sol Grip + Sağ Grip + Trigger) eksiksiz sıkıldı."}
+{"utc":"2026-07-21T13:54:45.6095403Z","event":"lanyard_selected","elapsed":16.199,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Dogru lanyard secildi."}
+{"utc":"2026-07-21T13:58:51.5335606Z","event":"scenario_init","elapsed":0.000,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"Senaryo 1 baslatildi."}
+{"utc":"2026-07-21T14:00:07.7403468Z","event":"scenario_init","elapsed":0.000,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"Senaryo 1 baslatildi."}
+{"utc":"2026-07-21T14:00:14.6121074Z","event":"mode_selected","elapsed":5.574,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"EĞİTİM MODU seçildi."}
+{"utc":"2026-07-21T14:00:14.6140943Z","event":"briefing_completed","elapsed":5.574,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"Kullanici brifingi tamamladi."}
+{"utc":"2026-07-21T14:00:18.7639384Z","event":"warning","elapsed":9.713,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Emniyet kemeri bacak/göğüs tokaları sıkılmadan GEVŞEK giyildi!"}
+{"utc":"2026-07-21T14:00:18.7639384Z","event":"harness_equipped_loose","elapsed":9.713,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Emniyet kemeri GEVŞEK/HATALI giyildi!"}
+{"utc":"2026-07-21T14:00:20.5431822Z","event":"harness_pattern_completed","elapsed":11.506,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Kemer tokaları ve bacak bantları buton örüntüsüyle (Sol Grip + Sağ Grip + Trigger) eksiksiz sıkıldı."}
+{"utc":"2026-07-21T14:00:25.4746937Z","event":"lanyard_selected","elapsed":16.436,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Dogru lanyard secildi."}
+{"utc":"2026-07-21T14:00:29.9459458Z","event":"warning","elapsed":20.908,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Yanlis lanyard/karabina secildi!"}
+{"utc":"2026-07-21T14:00:29.9459458Z","event":"lanyard_selected","elapsed":20.908,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Yanlis lanyard secildi."}
+{"utc":"2026-07-21T14:01:08.5995830Z","event":"scenario_init","elapsed":0.000,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"Senaryo 1 baslatildi."}
+{"utc":"2026-07-21T14:01:16.1318442Z","event":"mode_selected","elapsed":6.195,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"SINAV MODU seçildi."}
+{"utc":"2026-07-21T14:01:16.1323505Z","event":"briefing_completed","elapsed":6.195,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"Kullanici brifingi tamamladi."}
+{"utc":"2026-07-21T14:01:16.7693089Z","event":"warning","elapsed":6.834,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Emniyet kemeri bacak/göğüs tokaları sıkılmadan GEVŞEK giyildi!"}
+{"utc":"2026-07-21T14:01:16.7703004Z","event":"harness_equipped_loose","elapsed":6.834,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Emniyet kemeri GEVŞEK/HATALI giyildi!"}
+{"utc":"2026-07-21T14:01:22.3956029Z","event":"harness_pattern_completed","elapsed":12.460,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Kemer tokaları ve bacak bantları buton örüntüsüyle (Sol Grip + Sağ Grip + Trigger) eksiksiz sıkıldı."}
+{"utc":"2026-07-21T14:01:27.0071744Z","event":"warning","elapsed":17.071,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Yanlis lanyard/karabina secildi!"}
+{"utc":"2026-07-21T14:01:27.0076804Z","event":"lanyard_selected","elapsed":17.071,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Yanlis lanyard secildi."}
+{"utc":"2026-07-21T14:01:31.0908686Z","event":"lanyard_selected","elapsed":21.154,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Dogru lanyard secildi."}
+{"utc":"2026-07-21T14:03:40.3288222Z","event":"scenario_init","elapsed":0.000,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"Senaryo 1 baslatildi."}
+{"utc":"2026-07-21T14:03:46.2983903Z","event":"mode_selected","elapsed":4.655,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"EĞİTİM MODU seçildi."}
+{"utc":"2026-07-21T14:03:46.2999011Z","event":"briefing_completed","elapsed":4.655,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"Kullanici brifingi tamamladi."}
+{"utc":"2026-07-21T14:03:47.4923253Z","event":"warning","elapsed":5.837,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Emniyet kemeri bacak/göğüs tokaları sıkılmadan GEVŞEK giyildi!"}
+{"utc":"2026-07-21T14:03:47.4923253Z","event":"harness_equipped_loose","elapsed":5.837,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Emniyet kemeri GEVŞEK/HATALI giyildi!"}
+{"utc":"2026-07-21T14:03:50.1347111Z","event":"harness_pattern_completed","elapsed":8.492,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Kemer tokaları ve bacak bantları buton örüntüsüyle (Sol Grip + Sağ Grip + Trigger) eksiksiz sıkıldı."}
+{"utc":"2026-07-21T14:03:57.2724167Z","event":"warning","elapsed":15.630,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Yanlis lanyard/karabina secildi!"}
+{"utc":"2026-07-21T14:03:57.2739171Z","event":"lanyard_selected","elapsed":15.630,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Yanlis lanyard secildi."}
+{"utc":"2026-07-21T14:04:03.0494611Z","event":"lanyard_selected","elapsed":21.407,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Dogru lanyard secildi."}
+{"utc":"2026-07-21T14:04:27.7271416Z","event":"scenario_init","elapsed":0.000,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"Senaryo 1 baslatildi."}
+{"utc":"2026-07-21T14:04:32.6618799Z","event":"mode_selected","elapsed":3.599,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"SINAV MODU seçildi."}
+{"utc":"2026-07-21T14:04:32.6628765Z","event":"briefing_completed","elapsed":3.599,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"Kullanici brifingi tamamladi."}
+{"utc":"2026-07-21T14:04:33.7581696Z","event":"warning","elapsed":4.683,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Emniyet kemeri bacak/göğüs tokaları sıkılmadan GEVŞEK giyildi!"}
+{"utc":"2026-07-21T14:04:33.7592177Z","event":"harness_equipped_loose","elapsed":4.683,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Emniyet kemeri GEVŞEK/HATALI giyildi!"}
+{"utc":"2026-07-21T14:04:38.2892544Z","event":"warning","elapsed":9.227,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Yanlis lanyard/karabina secildi!"}
+{"utc":"2026-07-21T14:04:38.2907030Z","event":"lanyard_selected","elapsed":9.227,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Yanlis lanyard secildi."}
+{"utc":"2026-07-21T14:04:41.0115899Z","event":"lanyard_selected","elapsed":11.949,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Dogru lanyard secildi."}
+{"utc":"2026-07-22T08:16:30.6694835Z","event":"scenario_init","elapsed":0.000,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"Senaryo 1 baslatildi."}
+{"utc":"2026-07-22T08:19:58.8781878Z","event":"scenario_init","elapsed":0.000,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"Senaryo 1 baslatildi."}
+{"utc":"2026-07-22T08:20:07.8200483Z","event":"briefing_completed","elapsed":7.636,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"Kullanici brifingi tamamladi."}
+{"utc":"2026-07-22T08:21:02.7529301Z","event":"warning","elapsed":62.561,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Emniyet kemeri bacak/göğüs tokaları sıkılmadan GEVŞEK giyildi!"}
+{"utc":"2026-07-22T08:21:02.7529301Z","event":"harness_equipped_loose","elapsed":62.561,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Emniyet kemeri GEVŞEK/HATALI giyildi!"}
+{"utc":"2026-07-22T08:21:05.4238213Z","event":"harness_pattern_completed","elapsed":65.242,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Kemer tokaları ve bacak bantları buton örüntüsüyle (Sol Grip + Sağ Grip + Trigger) eksiksiz sıkıldı."}
+{"utc":"2026-07-22T08:26:38.1457951Z","event":"scenario_init","elapsed":0.000,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"Senaryo 1 baslatildi."}
+{"utc":"2026-07-22T08:26:48.2235721Z","event":"mode_selected","elapsed":8.945,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"EĞİTİM MODU seçildi."}
+{"utc":"2026-07-22T08:26:48.2252391Z","event":"briefing_completed","elapsed":8.945,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"Kullanici brifingi tamamladi."}
+{"utc":"2026-07-22T08:27:42.3002741Z","event":"warning","elapsed":63.012,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Emniyet kemeri bacak/göğüs tokaları sıkılmadan GEVŞEK giyildi!"}
+{"utc":"2026-07-22T08:27:42.3002741Z","event":"harness_equipped_loose","elapsed":63.012,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Emniyet kemeri GEVŞEK/HATALI giyildi!"}
+{"utc":"2026-07-22T08:27:43.1518847Z","event":"harness_pattern_completed","elapsed":63.874,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Kemer tokaları ve bacak bantları buton örüntüsüyle (Sol Grip + Sağ Grip + Trigger) eksiksiz sıkıldı."}
+{"utc":"2026-07-22T08:35:53.4716737Z","event":"scenario_init","elapsed":0.000,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"Senaryo 1 baslatildi."}
+{"utc":"2026-07-22T08:35:59.6920267Z","event":"mode_selected","elapsed":5.099,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"EĞİTİM MODU seçildi."}
+{"utc":"2026-07-22T08:35:59.6930199Z","event":"briefing_completed","elapsed":5.099,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"Kullanici brifingi tamamladi."}
+{"utc":"2026-07-22T08:36:55.5190217Z","event":"warning","elapsed":60.918,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Emniyet kemeri bacak/göğüs tokaları sıkılmadan GEVŞEK giyildi!"}
+{"utc":"2026-07-22T08:36:55.5190217Z","event":"harness_equipped_loose","elapsed":60.918,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Emniyet kemeri GEVŞEK/HATALI giyildi!"}
+{"utc":"2026-07-22T08:36:56.7040175Z","event":"harness_pattern_completed","elapsed":62.113,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Kemer tokaları ve bacak bantları buton örüntüsüyle (Sol Grip + Sağ Grip + Trigger) eksiksiz sıkıldı."}
+{"utc":"2026-07-22T08:45:34.9344876Z","event":"scenario_init","elapsed":0.000,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"Senaryo 1 baslatildi."}
+{"utc":"2026-07-22T08:45:49.6185495Z","event":"mode_selected","elapsed":13.372,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"EĞİTİM MODU seçildi."}
+{"utc":"2026-07-22T08:45:49.6195462Z","event":"briefing_completed","elapsed":13.372,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"Kullanici brifingi tamamladi."}
+{"utc":"2026-07-22T08:45:53.5312143Z","event":"warning","elapsed":17.276,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Emniyet kemeri bacak/göğüs tokaları sıkılmadan GEVŞEK giyildi!"}
+{"utc":"2026-07-22T08:45:53.5317212Z","event":"harness_equipped_loose","elapsed":17.276,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Emniyet kemeri GEVŞEK/HATALI giyildi!"}
+{"utc":"2026-07-22T08:45:54.3553867Z","event":"harness_pattern_completed","elapsed":18.110,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Kemer tokaları ve bacak bantları buton örüntüsüyle (Sol Grip + Sağ Grip + Trigger) eksiksiz sıkıldı."}
+{"utc":"2026-07-22T08:49:55.7072995Z","event":"scenario_init","elapsed":0.000,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"Senaryo 1 baslatildi."}
+{"utc":"2026-07-22T08:50:01.6989309Z","event":"mode_selected","elapsed":4.831,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"EĞİTİM MODU seçildi."}
+{"utc":"2026-07-22T08:50:01.7004343Z","event":"briefing_completed","elapsed":4.831,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"Kullanici brifingi tamamladi."}
+{"utc":"2026-07-22T08:50:06.1539855Z","event":"warning","elapsed":9.277,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Emniyet kemeri bacak/göğüs tokaları sıkılmadan GEVŞEK giyildi!"}
+{"utc":"2026-07-22T08:50:06.1545018Z","event":"harness_equipped_loose","elapsed":9.277,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Emniyet kemeri GEVŞEK/HATALI giyildi!"}
+{"utc":"2026-07-22T08:50:07.0887611Z","event":"harness_pattern_completed","elapsed":10.222,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Kemer tokaları ve bacak bantları buton örüntüsüyle (Sol Grip + Sağ Grip + Trigger) eksiksiz sıkıldı."}
+{"utc":"2026-07-22T08:52:27.1810985Z","event":"scenario_init","elapsed":0.000,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"Senaryo 1 baslatildi."}
+{"utc":"2026-07-22T08:52:31.6208503Z","event":"mode_selected","elapsed":3.231,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"EĞİTİM MODU seçildi."}
+{"utc":"2026-07-22T08:52:31.6218468Z","event":"briefing_completed","elapsed":3.231,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"Kullanici brifingi tamamladi."}
+{"utc":"2026-07-22T08:52:33.7427536Z","event":"warning","elapsed":5.344,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Emniyet kemeri bacak/göğüs tokaları sıkılmadan GEVŞEK giyildi!"}
+{"utc":"2026-07-22T08:52:33.7437502Z","event":"harness_equipped_loose","elapsed":5.344,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Emniyet kemeri GEVŞEK/HATALI giyildi!"}
+{"utc":"2026-07-22T08:52:34.8178717Z","event":"harness_pattern_completed","elapsed":6.429,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Kemer tokaları ve bacak bantları buton örüntüsüyle (Sol Grip + Sağ Grip + Trigger) eksiksiz sıkıldı."}
+{"utc":"2026-07-22T08:54:55.7105737Z","event":"scenario_init","elapsed":0.000,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"Senaryo 1 baslatildi."}
+{"utc":"2026-07-22T08:55:01.1601571Z","event":"mode_selected","elapsed":4.279,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"EĞİTİM MODU seçildi."}
+{"utc":"2026-07-22T08:55:01.1616632Z","event":"briefing_completed","elapsed":4.279,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"Kullanici brifingi tamamladi."}
+{"utc":"2026-07-22T08:55:04.0603472Z","event":"warning","elapsed":7.169,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Emniyet kemeri bacak/göğüs tokaları sıkılmadan GEVŞEK giyildi!"}
+{"utc":"2026-07-22T08:55:04.0603472Z","event":"harness_equipped_loose","elapsed":7.169,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Emniyet kemeri GEVŞEK/HATALI giyildi!"}
+{"utc":"2026-07-22T08:55:04.9260963Z","event":"harness_pattern_completed","elapsed":8.046,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Kemer tokaları ve bacak bantları buton örüntüsüyle (Sol Grip + Sağ Grip + Trigger) eksiksiz sıkıldı."}
+{"utc":"2026-07-22T08:58:11.7112347Z","event":"scenario_init","elapsed":0.000,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"Senaryo 1 baslatildi."}
+{"utc":"2026-07-22T08:58:21.4637662Z","event":"mode_selected","elapsed":8.408,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"EĞİTİM MODU seçildi."}
+{"utc":"2026-07-22T08:58:21.4647627Z","event":"briefing_completed","elapsed":8.408,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"Kullanici brifingi tamamladi."}
+{"utc":"2026-07-22T08:58:23.4447762Z","event":"warning","elapsed":10.380,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Emniyet kemeri bacak/göğüs tokaları sıkılmadan GEVŞEK giyildi!"}
+{"utc":"2026-07-22T08:58:23.4457692Z","event":"harness_equipped_loose","elapsed":10.380,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Emniyet kemeri GEVŞEK/HATALI giyildi!"}
+{"utc":"2026-07-22T08:58:24.5186469Z","event":"harness_pattern_completed","elapsed":11.464,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Kemer tokaları ve bacak bantları buton örüntüsüyle (Sol Grip + Sağ Grip + Trigger) eksiksiz sıkıldı."}
+{"utc":"2026-07-22T10:08:48.5439456Z","event":"scenario_init","elapsed":0.000,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"Senaryo 1 baslatildi."}
+{"utc":"2026-07-22T10:09:03.5174503Z","event":"mode_selected","elapsed":13.723,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"EĞİTİM MODU seçildi."}
+{"utc":"2026-07-22T10:09:03.5194169Z","event":"briefing_completed","elapsed":13.723,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"Kullanici brifingi tamamladi."}
+{"utc":"2026-07-22T10:09:06.2629195Z","event":"warning","elapsed":16.460,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Emniyet kemeri bacak/göğüs tokaları sıkılmadan GEVŞEK giyildi!"}
+{"utc":"2026-07-22T10:09:06.2639068Z","event":"harness_equipped_loose","elapsed":16.460,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Emniyet kemeri GEVŞEK/HATALI giyildi!"}
+{"utc":"2026-07-22T10:09:07.1004733Z","event":"harness_pattern_completed","elapsed":17.308,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Kemer tokaları ve bacak bantları buton örüntüsüyle (Sol Grip + Sağ Grip + Trigger) eksiksiz sıkıldı."}
+{"utc":"2026-07-22T10:12:47.0927631Z","event":"scenario_init","elapsed":0.000,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"Senaryo 1 baslatildi."}
+{"utc":"2026-07-22T10:12:58.8916927Z","event":"mode_selected","elapsed":10.623,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"EĞİTİM MODU seçildi."}
+{"utc":"2026-07-22T10:12:58.8926895Z","event":"briefing_completed","elapsed":10.623,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"Kullanici brifingi tamamladi."}
+{"utc":"2026-07-22T10:13:00.6364768Z","event":"warning","elapsed":12.358,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Emniyet kemeri bacak/göğüs tokaları sıkılmadan GEVŞEK giyildi!"}
+{"utc":"2026-07-22T10:13:00.6364768Z","event":"harness_equipped_loose","elapsed":12.358,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Emniyet kemeri GEVŞEK/HATALI giyildi!"}
+{"utc":"2026-07-22T10:21:24.6345340Z","event":"scenario_init","elapsed":0.000,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"Senaryo 1 baslatildi."}
+{"utc":"2026-07-22T10:21:30.5028101Z","event":"briefing_completed","elapsed":4.702,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"Kullanici brifingi tamamladi."}
+{"utc":"2026-07-22T10:21:30.5851948Z","event":"warning","elapsed":4.786,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Emniyet kemeri bacak/göğüs tokaları sıkılmadan GEVŞEK giyildi!"}
+{"utc":"2026-07-22T10:21:30.5851948Z","event":"harness_equipped_loose","elapsed":4.786,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Emniyet kemeri GEVŞEK/HATALI giyildi!"}
+{"utc":"2026-07-22T10:32:01.2332789Z","event":"scenario_init","elapsed":0.000,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"Senaryo 1 baslatildi."}
+{"utc":"2026-07-22T10:33:04.5102658Z","event":"briefing_completed","elapsed":62.050,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"Kullanici brifingi tamamladi."}
+{"utc":"2026-07-22T10:33:14.5734932Z","event":"warning","elapsed":72.104,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Emniyet kemeri bacak/göğüs tokaları sıkılmadan GEVŞEK giyildi!"}
+{"utc":"2026-07-22T10:33:14.5740162Z","event":"harness_equipped_loose","elapsed":72.104,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Emniyet kemeri GEVŞEK/HATALI giyildi!"}
+{"utc":"2026-07-22T10:33:50.8812614Z","event":"harness_pattern_completed","elapsed":108.423,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Kemer tokaları ve bacak bantları buton örüntüsüyle (Sol Grip + Sağ Grip + Trigger) eksiksiz sıkıldı."}
+{"utc":"2026-07-22T10:46:00.5586820Z","event":"scenario_init","elapsed":0.000,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"Senaryo 1 baslatildi."}
+{"utc":"2026-07-22T10:46:25.9709271Z","event":"warning","elapsed":24.239,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Emniyet kemeri bacak/göğüs tokaları sıkılmadan GEVŞEK giyildi!"}
+{"utc":"2026-07-22T10:46:25.9719225Z","event":"harness_equipped_loose","elapsed":24.239,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Emniyet kemeri GEVŞEK/HATALI giyildi!"}
+{"utc":"2026-07-22T11:50:14.8961330Z","event":"scenario_init","elapsed":0.000,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"Senaryo 1 baslatildi."}
+{"utc":"2026-07-22T11:50:32.2464045Z","event":"mode_selected","elapsed":16.176,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"EĞİTİM MODU seçildi."}
+{"utc":"2026-07-22T11:50:32.2474012Z","event":"briefing_completed","elapsed":16.176,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"Kullanici brifingi tamamladi."}
+{"utc":"2026-07-22T11:50:55.2024813Z","event":"warning","elapsed":39.131,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Emniyet kemeri bacak/göğüs tokaları sıkılmadan GEVŞEK giyildi!"}
+{"utc":"2026-07-22T11:50:55.2024813Z","event":"harness_equipped_loose","elapsed":39.131,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Emniyet kemeri GEVŞEK/HATALI giyildi!"}
+{"utc":"2026-07-22T11:51:17.2843671Z","event":"harness_pattern_completed","elapsed":61.214,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Kemer tokaları ve bacak bantları buton örüntüsüyle (Sol Grip + Sağ Grip + Trigger) eksiksiz sıkıldı."}
+{"utc":"2026-07-22T11:56:45.8286196Z","event":"scenario_init","elapsed":0.000,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"Senaryo 1 baslatildi."}
+{"utc":"2026-07-22T12:00:52.3708714Z","event":"scenario_init","elapsed":0.000,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"Senaryo 1 baslatildi."}
+{"utc":"2026-07-22T12:30:12.4180111Z","event":"scenario_init","elapsed":0.000,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"Senaryo 1 baslatildi."}
+{"utc":"2026-07-22T12:30:22.0551092Z","event":"mode_selected","elapsed":8.388,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"EĞİTİM MODU seçildi."}
+{"utc":"2026-07-22T12:30:22.0558382Z","event":"briefing_completed","elapsed":8.388,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"Kullanici brifingi tamamladi."}
+{"utc":"2026-07-22T12:50:56.2842167Z","event":"scenario_init","elapsed":0.000,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"Senaryo 1 baslatildi."}
+{"utc":"2026-07-22T12:51:06.4781457Z","event":"mode_selected","elapsed":9.038,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"EĞİTİM MODU seçildi."}
+{"utc":"2026-07-22T12:51:06.4791324Z","event":"briefing_completed","elapsed":9.038,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"Kullanici brifingi tamamladi."}
+{"utc":"2026-07-22T12:56:36.9170553Z","event":"scenario_init","elapsed":0.000,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"Senaryo 1 baslatildi."}
+{"utc":"2026-07-22T12:56:45.3690173Z","event":"mode_selected","elapsed":7.287,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"EĞİTİM MODU seçildi."}
+{"utc":"2026-07-22T12:56:45.3709601Z","event":"briefing_completed","elapsed":7.287,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"Kullanici brifingi tamamladi."}
+{"utc":"2026-07-22T12:57:00.9906324Z","event":"warning","elapsed":22.897,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Emniyet kemeri bacak/göğüs tokaları sıkılmadan GEVŞEK giyildi!"}
+{"utc":"2026-07-22T12:57:00.9916204Z","event":"harness_equipped_loose","elapsed":22.897,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Emniyet kemeri GEVŞEK/HATALI giyildi!"}
+{"utc":"2026-07-22T12:57:02.5912215Z","event":"harness_pattern_completed","elapsed":24.508,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Kemer tokaları ve bacak bantları buton örüntüsüyle (Sol Grip + Sağ Grip + Trigger) eksiksiz sıkıldı."}
+{"utc":"2026-07-22T13:00:36.5028566Z","event":"scenario_init","elapsed":0.000,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"Senaryo 1 baslatildi."}
+{"utc":"2026-07-23T07:14:20.6261668Z","event":"scenario_init","elapsed":0.000,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"Senaryo 1 baslatildi."}
+{"utc":"2026-07-23T07:14:28.7887318Z","event":"mode_selected","elapsed":6.834,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"EĞİTİM MODU seçildi."}
+{"utc":"2026-07-23T07:14:28.7897250Z","event":"briefing_completed","elapsed":6.834,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"Kullanici brifingi tamamladi."}
+{"utc":"2026-07-23T07:14:49.7030450Z","event":"warning","elapsed":27.747,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Emniyet kemeri bacak/göğüs tokaları sıkılmadan GEVŞEK giyildi!"}
+{"utc":"2026-07-23T07:14:49.7030450Z","event":"harness_equipped_loose","elapsed":27.747,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Emniyet kemeri GEVŞEK/HATALI giyildi!"}
+{"utc":"2026-07-23T07:15:07.7300893Z","event":"harness_pattern_completed","elapsed":45.775,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Kemer tokaları ve bacak bantları buton örüntüsüyle (Sol Grip + Sağ Grip + Trigger) eksiksiz sıkıldı."}
+{"utc":"2026-07-23T07:22:31.6061625Z","event":"scenario_init","elapsed":0.000,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"Senaryo 1 baslatildi."}
+{"utc":"2026-07-23T07:22:38.1899350Z","event":"mode_selected","elapsed":5.312,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"EĞİTİM MODU seçildi."}
+{"utc":"2026-07-23T07:22:38.1909351Z","event":"briefing_completed","elapsed":5.312,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"Kullanici brifingi tamamladi."}
+{"utc":"2026-07-23T07:22:46.1337118Z","event":"warning","elapsed":13.256,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Emniyet kemeri bacak/göğüs tokaları sıkılmadan GEVŞEK giyildi!"}
+{"utc":"2026-07-23T07:22:46.1347116Z","event":"harness_equipped_loose","elapsed":13.256,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Emniyet kemeri GEVŞEK/HATALI giyildi!"}
+{"utc":"2026-07-23T07:22:54.0229712Z","event":"harness_pattern_completed","elapsed":21.145,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Kemer tokaları ve bacak bantları buton örüntüsüyle (Sol Grip + Sağ Grip + Trigger) eksiksiz sıkıldı."}
+{"utc":"2026-07-23T07:47:08.7057011Z","event":"scenario_init","elapsed":0.000,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"Senaryo 1 baslatildi."}
+{"utc":"2026-07-23T07:47:39.7330186Z","event":"scenario_init","elapsed":0.000,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"Senaryo 1 baslatildi."}
+{"utc":"2026-07-23T07:47:48.8987254Z","event":"scenario_init","elapsed":0.000,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"Senaryo 1 baslatildi."}
+{"utc":"2026-07-23T07:47:57.1010285Z","event":"mode_selected","elapsed":6.978,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"EĞİTİM MODU seçildi."}
+{"utc":"2026-07-23T07:47:57.1020287Z","event":"briefing_completed","elapsed":6.978,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"Kullanici brifingi tamamladi."}
+{"utc":"2026-07-23T07:48:05.8869202Z","event":"warning","elapsed":15.754,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Emniyet kemeri bacak/göğüs tokaları sıkılmadan GEVŞEK giyildi!"}
+{"utc":"2026-07-23T07:48:05.8869202Z","event":"harness_equipped_loose","elapsed":15.754,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Emniyet kemeri GEVŞEK/HATALI giyildi!"}
+{"utc":"2026-07-23T07:48:06.9203136Z","event":"harness_pattern_completed","elapsed":16.797,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Kemer tokaları ve bacak bantları buton örüntüsüyle (Sol Grip + Sağ Grip + Trigger) eksiksiz sıkıldı."}
+{"utc":"2026-07-23T07:48:19.2668562Z","event":"warning","elapsed":29.142,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Yanlis lanyard/karabina secildi!"}
+{"utc":"2026-07-23T07:48:19.2678561Z","event":"lanyard_selected","elapsed":29.142,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Yanlis lanyard secildi."}
+{"utc":"2026-07-23T08:03:00.8969175Z","event":"scenario_init","elapsed":0.000,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"Senaryo 1 baslatildi."}
+{"utc":"2026-07-23T08:03:08.3343083Z","event":"mode_selected","elapsed":6.200,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"EĞİTİM MODU seçildi."}
+{"utc":"2026-07-23T08:03:08.3353082Z","event":"briefing_completed","elapsed":6.200,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"Kullanici brifingi tamamladi."}
+{"utc":"2026-07-23T08:03:15.6108728Z","event":"warning","elapsed":13.476,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Emniyet kemeri bacak/göğüs tokaları sıkılmadan GEVŞEK giyildi!"}
+{"utc":"2026-07-23T08:03:15.6108728Z","event":"harness_equipped_loose","elapsed":13.476,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Emniyet kemeri GEVŞEK/HATALI giyildi!"}
+{"utc":"2026-07-23T08:03:23.2225651Z","event":"harness_pattern_completed","elapsed":21.087,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Kemer tokaları ve bacak bantları buton örüntüsüyle (Sol Grip + Sağ Grip + Trigger) eksiksiz sıkıldı."}
+{"utc":"2026-07-23T08:03:26.0000483Z","event":"warning","elapsed":23.865,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Yanlis lanyard/karabina secildi!"}
+{"utc":"2026-07-23T08:03:26.0010480Z","event":"lanyard_selected","elapsed":23.865,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Yanlis lanyard secildi."}
+{"utc":"2026-07-23T08:03:26.4317039Z","event":"lanyard_selected","elapsed":24.296,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Yanlis lanyard secildi."}
+{"utc":"2026-07-23T08:03:27.8054436Z","event":"lanyard_selected","elapsed":25.670,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Yanlis lanyard secildi."}
+{"utc":"2026-07-23T08:03:28.0973257Z","event":"lanyard_selected","elapsed":25.962,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Yanlis lanyard secildi."}
+{"utc":"2026-07-23T08:03:28.3883992Z","event":"lanyard_selected","elapsed":26.254,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Yanlis lanyard secildi."}
+{"utc":"2026-07-23T08:03:28.6657532Z","event":"lanyard_selected","elapsed":26.531,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Yanlis lanyard secildi."}
+{"utc":"2026-07-23T08:03:28.9023756Z","event":"lanyard_selected","elapsed":26.767,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Yanlis lanyard secildi."}
+{"utc":"2026-07-23T08:03:29.1941456Z","event":"lanyard_selected","elapsed":27.059,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Yanlis lanyard secildi."}
+{"utc":"2026-07-23T08:03:29.4443077Z","event":"lanyard_selected","elapsed":27.309,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Yanlis lanyard secildi."}
+{"utc":"2026-07-23T08:03:29.6802485Z","event":"lanyard_selected","elapsed":27.545,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Yanlis lanyard secildi."}
+{"utc":"2026-07-23T08:03:30.2084228Z","event":"lanyard_selected","elapsed":28.073,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Yanlis lanyard secildi."}
+{"utc":"2026-07-23T08:03:30.4991180Z","event":"lanyard_selected","elapsed":28.365,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Yanlis lanyard secildi."}
+{"utc":"2026-07-23T08:03:30.7491173Z","event":"lanyard_selected","elapsed":28.614,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Yanlis lanyard secildi."}
+{"utc":"2026-07-23T08:03:41.3599184Z","event":"lanyard_selected","elapsed":39.225,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Yanlis lanyard secildi."}
+{"utc":"2026-07-23T08:03:41.7074649Z","event":"lanyard_selected","elapsed":39.573,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Yanlis lanyard secildi."}
+{"utc":"2026-07-23T08:03:41.9709636Z","event":"lanyard_selected","elapsed":39.836,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Yanlis lanyard secildi."}
+{"utc":"2026-07-23T08:03:42.1939822Z","event":"lanyard_selected","elapsed":40.059,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Yanlis lanyard secildi."}
+{"utc":"2026-07-23T08:03:42.4430093Z","event":"lanyard_selected","elapsed":40.308,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Yanlis lanyard secildi."}
+{"utc":"2026-07-23T08:03:42.6797432Z","event":"lanyard_selected","elapsed":40.545,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Yanlis lanyard secildi."}
+{"utc":"2026-07-23T08:03:42.9033647Z","event":"lanyard_selected","elapsed":40.768,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Yanlis lanyard secildi."}
+{"utc":"2026-07-23T08:03:43.1666306Z","event":"lanyard_selected","elapsed":41.031,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Yanlis lanyard secildi."}
+{"utc":"2026-07-23T08:03:43.3892780Z","event":"lanyard_selected","elapsed":41.254,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Yanlis lanyard secildi."}
+{"utc":"2026-07-23T08:03:43.6106270Z","event":"lanyard_selected","elapsed":41.476,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Yanlis lanyard secildi."}
+{"utc":"2026-07-23T08:03:43.8327930Z","event":"lanyard_selected","elapsed":41.698,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Yanlis lanyard secildi."}
+{"utc":"2026-07-23T08:03:44.0961316Z","event":"lanyard_selected","elapsed":41.961,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Yanlis lanyard secildi."}
+{"utc":"2026-07-23T08:03:44.2909970Z","event":"lanyard_selected","elapsed":42.156,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Yanlis lanyard secildi."}
+{"utc":"2026-07-23T08:03:45.0545653Z","event":"lanyard_selected","elapsed":42.920,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Yanlis lanyard secildi."}
+{"utc":"2026-07-23T08:03:45.2909374Z","event":"lanyard_selected","elapsed":43.156,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Yanlis lanyard secildi."}
+{"utc":"2026-07-23T08:03:45.9153052Z","event":"lanyard_selected","elapsed":43.781,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Yanlis lanyard secildi."}
+{"utc":"2026-07-23T08:03:46.1514072Z","event":"lanyard_selected","elapsed":44.017,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Yanlis lanyard secildi."}
+{"utc":"2026-07-23T08:03:46.6373552Z","event":"lanyard_selected","elapsed":44.503,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Yanlis lanyard secildi."}
+{"utc":"2026-07-23T08:03:56.2764429Z","event":"lanyard_selected","elapsed":54.141,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Dogru lanyard secildi."}
+{"utc":"2026-07-23T08:11:23.0708789Z","event":"scenario_init","elapsed":0.000,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"Senaryo 1 baslatildi."}
+{"utc":"2026-07-23T08:11:30.8913447Z","event":"mode_selected","elapsed":6.483,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"EĞİTİM MODU seçildi."}
+{"utc":"2026-07-23T08:11:30.8923450Z","event":"briefing_completed","elapsed":6.483,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"Kullanici brifingi tamamladi."}
+{"utc":"2026-07-23T08:11:37.1490614Z","event":"warning","elapsed":12.732,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Emniyet kemeri bacak/göğüs tokaları sıkılmadan GEVŞEK giyildi!"}
+{"utc":"2026-07-23T08:11:37.1500616Z","event":"harness_equipped_loose","elapsed":12.732,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Emniyet kemeri GEVŞEK/HATALI giyildi!"}
+{"utc":"2026-07-23T08:11:38.0291667Z","event":"harness_pattern_completed","elapsed":13.621,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Kemer tokaları ve bacak bantları buton örüntüsüyle (Sol Grip + Sağ Grip + Trigger) eksiksiz sıkıldı."}
+{"utc":"2026-07-23T08:11:39.3916569Z","event":"warning","elapsed":14.983,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Yanlis lanyard/karabina secildi!"}
+{"utc":"2026-07-23T08:11:39.3926571Z","event":"lanyard_selected","elapsed":14.983,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Yanlis lanyard secildi."}
+{"utc":"2026-07-23T08:11:40.4737598Z","event":"lanyard_selected","elapsed":16.066,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Yanlis lanyard secildi."}
+{"utc":"2026-07-23T08:11:41.0020692Z","event":"lanyard_selected","elapsed":16.594,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Yanlis lanyard secildi."}
+{"utc":"2026-07-23T08:11:50.5011771Z","event":"lanyard_selected","elapsed":26.093,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Yanlis lanyard secildi."}
+{"utc":"2026-07-23T08:11:51.2365359Z","event":"lanyard_selected","elapsed":26.829,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Yanlis lanyard secildi."}
+{"utc":"2026-07-23T08:11:51.8205608Z","event":"lanyard_selected","elapsed":27.412,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Yanlis lanyard secildi."}
+{"utc":"2026-07-23T08:11:52.3061048Z","event":"lanyard_selected","elapsed":27.898,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Yanlis lanyard secildi."}
+{"utc":"2026-07-23T08:11:52.6957657Z","event":"lanyard_selected","elapsed":28.287,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Yanlis lanyard secildi."}
+{"utc":"2026-07-23T08:11:53.5843525Z","event":"lanyard_selected","elapsed":29.176,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Dogru lanyard secildi."}
+{"utc":"2026-07-23T08:12:23.9569858Z","event":"lanyard_selected","elapsed":59.549,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Yanlis lanyard secildi."}
+{"utc":"2026-07-23T08:12:24.1933372Z","event":"lanyard_selected","elapsed":59.785,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Yanlis lanyard secildi."}
+{"utc":"2026-07-23T08:12:24.3879770Z","event":"lanyard_selected","elapsed":59.980,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Yanlis lanyard secildi."}
+{"utc":"2026-07-23T08:20:01.3567627Z","event":"scenario_init","elapsed":0.000,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"Senaryo 1 baslatildi."}
+{"utc":"2026-07-23T08:20:09.6927422Z","event":"mode_selected","elapsed":7.109,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"EĞİTİM MODU seçildi."}
+{"utc":"2026-07-23T08:20:09.6937436Z","event":"briefing_completed","elapsed":7.109,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"Kullanici brifingi tamamladi."}
+{"utc":"2026-07-23T08:20:13.7480077Z","event":"warning","elapsed":11.149,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Emniyet kemeri bacak/göğüs tokaları sıkılmadan GEVŞEK giyildi!"}
+{"utc":"2026-07-23T08:20:13.7480077Z","event":"harness_equipped_loose","elapsed":11.149,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Emniyet kemeri GEVŞEK/HATALI giyildi!"}
+{"utc":"2026-07-23T08:20:22.4843826Z","event":"harness_pattern_completed","elapsed":19.900,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Kemer tokaları ve bacak bantları buton örüntüsüyle (Sol Grip + Sağ Grip + Trigger) eksiksiz sıkıldı."}
+{"utc":"2026-07-23T08:21:18.2414098Z","event":"scenario_init","elapsed":0.000,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"Senaryo 1 baslatildi."}
+{"utc":"2026-07-23T08:21:24.8826012Z","event":"mode_selected","elapsed":5.389,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"EĞİTİM MODU seçildi."}
+{"utc":"2026-07-23T08:21:24.8836012Z","event":"briefing_completed","elapsed":5.389,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"Kullanici brifingi tamamladi."}
+{"utc":"2026-07-23T08:21:26.4931684Z","event":"warning","elapsed":7.000,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Emniyet kemeri bacak/göğüs tokaları sıkılmadan GEVŞEK giyildi!"}
+{"utc":"2026-07-23T08:21:26.4941685Z","event":"harness_equipped_loose","elapsed":7.000,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Emniyet kemeri GEVŞEK/HATALI giyildi!"}
+{"utc":"2026-07-23T08:21:45.0631480Z","event":"harness_pattern_completed","elapsed":25.570,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Kemer tokaları ve bacak bantları buton örüntüsüyle (Sol Grip + Sağ Grip + Trigger) eksiksiz sıkıldı."}
+{"utc":"2026-07-23T08:40:09.6946724Z","event":"scenario_init","elapsed":0.000,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"Senaryo 1 baslatildi."}
+{"utc":"2026-07-23T08:40:17.5878786Z","event":"mode_selected","elapsed":6.563,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"EĞİTİM MODU seçildi."}
+{"utc":"2026-07-23T08:40:17.5889051Z","event":"briefing_completed","elapsed":6.563,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"Kullanici brifingi tamamladi."}
+{"utc":"2026-07-23T08:40:22.2905823Z","event":"warning","elapsed":11.256,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Emniyet kemeri bacak/göğüs tokaları sıkılmadan GEVŞEK giyildi!"}
+{"utc":"2026-07-23T08:40:22.2905823Z","event":"harness_equipped_loose","elapsed":11.256,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Emniyet kemeri GEVŞEK/HATALI giyildi!"}
+{"utc":"2026-07-23T08:40:23.0320455Z","event":"harness_pattern_completed","elapsed":12.007,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Kemer tokaları ve bacak bantları buton örüntüsüyle (Sol Grip + Sağ Grip + Trigger) eksiksiz sıkıldı."}
+{"utc":"2026-07-23T08:40:47.0958392Z","event":"collective_protection_checked","elapsed":36.071,"harness":true,"anchor":"none","collectiveChecked":true,"detail":"Toplu koruma kontrolleri tamamlandı (Klavye Hilesi)."}
+{"utc":"2026-07-23T08:41:05.7033715Z","event":"anchor_attached","elapsed":54.679,"harness":true,"anchor":"safe","collectiveChecked":true,"detail":"Guvenli ankraja baglanildi (Klavye Hilesi)."}
+{"utc":"2026-07-23T08:41:12.4971431Z","event":"anchor_attached","elapsed":61.473,"harness":true,"anchor":"safe","collectiveChecked":true,"detail":"Guvenli ankraja baglanildi (Klavye Hilesi)."}
+{"utc":"2026-07-23T08:41:16.0791821Z","event":"collective_protection_checked","elapsed":65.054,"harness":true,"anchor":"safe","collectiveChecked":true,"detail":"Toplu koruma kontrolleri tamamlandı (Klavye Hilesi)."}
+{"utc":"2026-07-23T08:41:39.8255428Z","event":"collective_protection_checked","elapsed":88.801,"harness":true,"anchor":"safe","collectiveChecked":true,"detail":"Toplu koruma kontrolleri tamamlandı (Klavye Hilesi)."}
+{"utc":"2026-07-23T08:41:42.2343934Z","event":"anchor_attached","elapsed":91.210,"harness":true,"anchor":"safe","collectiveChecked":true,"detail":"Guvenli ankraja baglanildi (Klavye Hilesi)."}
+{"utc":"2026-07-23T08:43:51.6731542Z","event":"scenario_init","elapsed":0.000,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"Senaryo 1 baslatildi."}
+{"utc":"2026-07-23T08:43:58.1513250Z","event":"mode_selected","elapsed":5.271,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"EĞİTİM MODU seçildi."}
+{"utc":"2026-07-23T08:43:58.1523250Z","event":"briefing_completed","elapsed":5.271,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"Kullanici brifingi tamamladi."}
+{"utc":"2026-07-23T08:44:04.2307268Z","event":"warning","elapsed":11.339,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Emniyet kemeri bacak/göğüs tokaları sıkılmadan GEVŞEK giyildi!"}
+{"utc":"2026-07-23T08:44:04.2307268Z","event":"harness_equipped_loose","elapsed":11.339,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Emniyet kemeri GEVŞEK/HATALI giyildi!"}
+{"utc":"2026-07-23T08:44:18.1781093Z","event":"harness_pattern_completed","elapsed":25.297,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Kemer tokaları ve bacak bantları buton örüntüsüyle (Sol Grip + Sağ Grip + Trigger) eksiksiz sıkıldı."}
+{"utc":"2026-07-23T08:44:44.5297880Z","event":"collective_protection_checked","elapsed":51.648,"harness":true,"anchor":"none","collectiveChecked":true,"detail":"Toplu koruma kontrolleri tamamlandı (Klavye Hilesi)."}
+{"utc":"2026-07-23T08:44:46.7567190Z","event":"anchor_attached","elapsed":53.876,"harness":true,"anchor":"safe","collectiveChecked":true,"detail":"Guvenli ankraja baglanildi (Klavye Hilesi)."}
+{"utc":"2026-07-23T08:51:34.9903169Z","event":"scenario_init","elapsed":0.000,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"Senaryo 1 baslatildi."}
+{"utc":"2026-07-23T08:51:47.0293816Z","event":"mode_selected","elapsed":10.594,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"EĞİTİM MODU seçildi."}
+{"utc":"2026-07-23T08:51:47.0303813Z","event":"briefing_completed","elapsed":10.594,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"Kullanici brifingi tamamladi."}
+{"utc":"2026-07-23T08:51:52.0644313Z","event":"warning","elapsed":15.619,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Emniyet kemeri bacak/göğüs tokaları sıkılmadan GEVŞEK giyildi!"}
+{"utc":"2026-07-23T08:51:52.0654319Z","event":"harness_equipped_loose","elapsed":15.619,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Emniyet kemeri GEVŞEK/HATALI giyildi!"}
+{"utc":"2026-07-23T08:51:53.0139755Z","event":"harness_pattern_completed","elapsed":16.579,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Kemer tokaları ve bacak bantları buton örüntüsüyle (Sol Grip + Sağ Grip + Trigger) eksiksiz sıkıldı."}
+{"utc":"2026-07-23T08:52:11.2127304Z","event":"collective_protection_checked","elapsed":34.777,"harness":true,"anchor":"none","collectiveChecked":true,"detail":"Toplu koruma kontrolleri tamamlandı (Klavye Hilesi)."}
+{"utc":"2026-07-23T08:52:13.2029691Z","event":"anchor_attached","elapsed":36.768,"harness":true,"anchor":"safe","collectiveChecked":true,"detail":"Guvenli ankraja baglanildi (Klavye Hilesi)."}
+{"utc":"2026-07-23T08:55:19.2425688Z","event":"scenario_init","elapsed":0.000,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"Senaryo 1 baslatildi."}
+{"utc":"2026-07-23T08:55:27.4691919Z","event":"mode_selected","elapsed":6.905,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"EĞİTİM MODU seçildi."}
+{"utc":"2026-07-23T08:55:27.4701898Z","event":"briefing_completed","elapsed":6.905,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"Kullanici brifingi tamamladi."}
+{"utc":"2026-07-23T08:55:30.4017882Z","event":"warning","elapsed":9.821,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Emniyet kemeri bacak/göğüs tokaları sıkılmadan GEVŞEK giyildi!"}
+{"utc":"2026-07-23T08:55:30.4017882Z","event":"harness_equipped_loose","elapsed":9.821,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Emniyet kemeri GEVŞEK/HATALI giyildi!"}
+{"utc":"2026-07-23T08:55:51.9889427Z","event":"scenario_init","elapsed":0.000,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"Senaryo 1 baslatildi."}
+{"utc":"2026-07-23T08:55:59.9810098Z","event":"mode_selected","elapsed":6.800,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"EĞİTİM MODU seçildi."}
+{"utc":"2026-07-23T08:55:59.9820056Z","event":"briefing_completed","elapsed":6.800,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"Kullanici brifingi tamamladi."}
+{"utc":"2026-07-23T08:56:04.9535382Z","event":"warning","elapsed":11.771,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Emniyet kemeri bacak/göğüs tokaları sıkılmadan GEVŞEK giyildi!"}
+{"utc":"2026-07-23T08:56:04.9535382Z","event":"harness_equipped_loose","elapsed":11.771,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Emniyet kemeri GEVŞEK/HATALI giyildi!"}
+{"utc":"2026-07-23T08:56:16.6894414Z","event":"harness_pattern_completed","elapsed":23.507,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Kemer tokaları ve bacak bantları buton örüntüsüyle (Sol Grip + Sağ Grip + Trigger) eksiksiz sıkıldı."}
+{"utc":"2026-07-23T08:56:23.1066743Z","event":"preparation_completed","elapsed":29.923,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"KKD hazırlığı tamamlandı. Güvenlik kontrolü (SAFETY_CHECK) aşamasına geçildi."}
+{"utc":"2026-07-23T08:56:23.1076703Z","event":"lanyard_selected","elapsed":29.923,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Dogru lanyard secildi."}
+{"utc":"2026-07-23T08:57:02.5220615Z","event":"scenario_init","elapsed":0.000,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"Senaryo 1 baslatildi."}
+{"utc":"2026-07-23T08:57:09.3730220Z","event":"mode_selected","elapsed":5.557,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"EĞİTİM MODU seçildi."}
+{"utc":"2026-07-23T08:57:09.3741223Z","event":"briefing_completed","elapsed":5.557,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"Kullanici brifingi tamamladi."}
+{"utc":"2026-07-23T08:57:12.3167252Z","event":"warning","elapsed":8.485,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Emniyet kemeri bacak/göğüs tokaları sıkılmadan GEVŞEK giyildi!"}
+{"utc":"2026-07-23T08:57:12.3172308Z","event":"harness_equipped_loose","elapsed":8.485,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Emniyet kemeri GEVŞEK/HATALI giyildi!"}
+{"utc":"2026-07-23T08:57:18.2464827Z","event":"harness_pattern_completed","elapsed":14.430,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Kemer tokaları ve bacak bantları buton örüntüsüyle (Sol Grip + Sağ Grip + Trigger) eksiksiz sıkıldı."}
+{"utc":"2026-07-23T08:57:42.4744393Z","event":"collective_protection_checked","elapsed":38.658,"harness":true,"anchor":"none","collectiveChecked":true,"detail":"Toplu koruma kontrolleri tamamlandı (Klavye Hilesi)."}
+{"utc":"2026-07-23T08:57:47.5515263Z","event":"anchor_attached","elapsed":43.735,"harness":true,"anchor":"safe","collectiveChecked":true,"detail":"Guvenli ankraja baglanildi (Klavye Hilesi)."}
+{"utc":"2026-07-23T08:57:50.1113900Z","event":"collective_protection_checked","elapsed":46.295,"harness":true,"anchor":"safe","collectiveChecked":true,"detail":"Toplu koruma kontrolleri tamamlandı (Klavye Hilesi)."}
+{"utc":"2026-07-23T09:01:37.0813020Z","event":"scenario_init","elapsed":0.000,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"Senaryo 1 baslatildi."}
+{"utc":"2026-07-23T09:01:47.0442658Z","event":"mode_selected","elapsed":8.687,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"EĞİTİM MODU seçildi."}
+{"utc":"2026-07-23T09:01:47.0452658Z","event":"briefing_completed","elapsed":8.687,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"Kullanici brifingi tamamladi."}
+{"utc":"2026-07-23T09:01:50.2379836Z","event":"warning","elapsed":11.880,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Emniyet kemeri bacak/göğüs tokaları sıkılmadan GEVŞEK giyildi!"}
+{"utc":"2026-07-23T09:01:50.2379836Z","event":"harness_equipped_loose","elapsed":11.880,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Emniyet kemeri GEVŞEK/HATALI giyildi!"}
+{"utc":"2026-07-23T09:02:18.3207467Z","event":"harness_pattern_completed","elapsed":39.963,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Kemer tokaları ve bacak bantları buton örüntüsüyle (Sol Grip + Sağ Grip + Trigger) eksiksiz sıkıldı."}
+{"utc":"2026-07-23T09:02:21.1981200Z","event":"preparation_completed","elapsed":42.838,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"KKD hazırlığı tamamlandı. Güvenlik kontrolü (SAFETY_CHECK) aşamasına geçildi."}
+{"utc":"2026-07-23T09:02:21.1992381Z","event":"lanyard_selected","elapsed":42.838,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Dogru lanyard secildi."}
+{"utc":"2026-07-23T09:02:24.6826336Z","event":"lanyard_selected","elapsed":46.324,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Dogru lanyard secildi."}
+{"utc":"2026-07-23T09:02:29.8906817Z","event":"lanyard_selected","elapsed":51.532,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Dogru lanyard secildi."}
+{"utc":"2026-07-23T09:02:46.0636052Z","event":"collective_protection_checked","elapsed":67.706,"harness":true,"anchor":"none","collectiveChecked":true,"detail":"Toplu koruma kontrolleri tamamlandı (Klavye Hilesi)."}
+{"utc":"2026-07-23T09:02:47.8834021Z","event":"anchor_attached","elapsed":69.527,"harness":true,"anchor":"safe","collectiveChecked":true,"detail":"Guvenli ankraja baglanildi (Klavye Hilesi)."}
+{"utc":"2026-07-23T09:02:47.8844018Z","event":"safety_check_completed","elapsed":69.527,"harness":true,"anchor":"safe","collectiveChecked":true,"detail":"Güvenlik kontrolleri ve ankraj bağlantısı tamamlandı. Tırmanış aşamasına geçildi."}
+{"utc":"2026-07-23T09:03:03.7643939Z","event":"work_completed","elapsed":85.408,"harness":true,"anchor":"safe","collectiveChecked":true,"detail":"Bakim gorevi tamamlandi."}
+{"utc":"2026-07-23T09:03:03.7663893Z","event":"disturbance_started","elapsed":85.408,"harness":true,"anchor":"safe","collectiveChecked":true,"detail":"Ruzgar/sarsinti olayi tetiklendi. Baslangic siddeti: 0,05"}
+{"utc":"2026-07-23T09:03:06.5993872Z","event":"safe_retreat","elapsed":88.242,"harness":true,"anchor":"safe","collectiveChecked":true,"detail":"Kullanıcı riski fark ederek güvenli bölgeye geri çekildi."}
+{"utc":"2026-07-23T09:03:06.6009271Z","event":"scenario_ended","elapsed":88.242,"harness":true,"anchor":"safe","collectiveChecked":true,"detail":"Senaryo bitti. Sonuc: Eğitim Tamamlandı: Riski fark ederek güvenli alana geri çekildiniz. | Skor: 100"}
+{"utc":"2026-07-23T10:10:25.7519794Z","event":"scenario_init","elapsed":0.000,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"Senaryo 1 baslatildi."}
+{"utc":"2026-07-23T10:10:36.5292623Z","event":"mode_selected","elapsed":9.520,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"EĞİTİM MODU seçildi."}
+{"utc":"2026-07-23T10:10:36.5302623Z","event":"briefing_completed","elapsed":9.520,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"Kullanici brifingi tamamladi."}
+{"utc":"2026-07-23T10:10:39.9161425Z","event":"warning","elapsed":12.907,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Emniyet kemeri bacak/göğüs tokaları sıkılmadan GEVŞEK giyildi!"}
+{"utc":"2026-07-23T10:10:39.9161425Z","event":"harness_equipped_loose","elapsed":12.907,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Emniyet kemeri GEVŞEK/HATALI giyildi!"}
+{"utc":"2026-07-23T10:10:46.2070601Z","event":"harness_pattern_completed","elapsed":19.199,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Kemer tokaları ve bacak bantları buton örüntüsüyle (Sol Grip + Sağ Grip + Trigger) eksiksiz sıkıldı."}
+{"utc":"2026-07-23T10:10:54.0013558Z","event":"preparation_completed","elapsed":26.991,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"KKD hazırlığı tamamlandı. Güvenlik kontrolü (SAFETY_CHECK) aşamasına geçildi."}
+{"utc":"2026-07-23T10:10:54.0023556Z","event":"lanyard_selected","elapsed":26.991,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Dogru lanyard secildi."}
+{"utc":"2026-07-23T10:10:55.6540171Z","event":"lanyard_selected","elapsed":28.643,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Dogru lanyard secildi."}
+{"utc":"2026-07-23T10:10:59.3189930Z","event":"lanyard_selected","elapsed":32.310,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Dogru lanyard secildi."}
+{"utc":"2026-07-23T10:11:04.7777351Z","event":"lanyard_selected","elapsed":37.769,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Dogru lanyard secildi."}
+{"utc":"2026-07-23T10:11:33.4229339Z","event":"collective_protection_checked","elapsed":66.414,"harness":true,"anchor":"none","collectiveChecked":true,"detail":"Toplu koruma kontrolleri tamamlandı (Klavye Hilesi)."}
+{"utc":"2026-07-23T10:11:34.9459915Z","event":"anchor_attached","elapsed":67.938,"harness":true,"anchor":"safe","collectiveChecked":true,"detail":"Guvenli ankraja baglanildi (Klavye Hilesi)."}
+{"utc":"2026-07-23T10:11:34.9459915Z","event":"safety_check_completed","elapsed":67.938,"harness":true,"anchor":"safe","collectiveChecked":true,"detail":"Güvenlik kontrolleri ve ankraj bağlantısı tamamlandı. Tırmanış aşamasına geçildi."}
+{"utc":"2026-07-23T10:11:36.3957446Z","event":"anchor_attached","elapsed":69.387,"harness":true,"anchor":"safe","collectiveChecked":true,"detail":"Guvenli ankraja baglanildi (Klavye Hilesi)."}
+{"utc":"2026-07-23T10:11:42.0253956Z","event":"work_completed","elapsed":75.017,"harness":true,"anchor":"safe","collectiveChecked":true,"detail":"Bakim gorevi tamamlandi."}
+{"utc":"2026-07-23T10:11:42.0269032Z","event":"disturbance_started","elapsed":75.017,"harness":true,"anchor":"safe","collectiveChecked":true,"detail":"Ruzgar/sarsinti olayi tetiklendi. Baslangic siddeti: 0,05"}
+{"utc":"2026-07-23T10:11:51.3132190Z","event":"safe_retreat","elapsed":84.305,"harness":true,"anchor":"safe","collectiveChecked":true,"detail":"Kullanıcı riski fark ederek güvenli bölgeye geri çekildi."}
+{"utc":"2026-07-23T10:11:51.3147263Z","event":"scenario_ended","elapsed":84.305,"harness":true,"anchor":"safe","collectiveChecked":true,"detail":"Senaryo bitti. Sonuc: Eğitim Tamamlandı: Riski fark ederek güvenli alana geri çekildiniz. | Skor: 100"}
+{"utc":"2026-07-23T10:24:29.6634429Z","event":"scenario_init","elapsed":0.000,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"Senaryo 1 baslatildi."}
+{"utc":"2026-07-23T10:24:31.8978745Z","event":"briefing_completed","elapsed":0.976,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"Kullanici brifingi tamamladi."}
+{"utc":"2026-07-23T10:24:34.2178844Z","event":"harness_equipped_correct","elapsed":3.296,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Emniyet kemeri tokaları kilitlenerek DOĞRU giyildi."}
+{"utc":"2026-07-23T10:24:36.1787451Z","event":"preparation_completed","elapsed":5.257,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"KKD hazırlığı tamamlandı. Güvenlik kontrolü (SAFETY_CHECK) aşamasına geçildi."}
+{"utc":"2026-07-23T10:24:37.3572604Z","event":"anchor_attached","elapsed":6.435,"harness":true,"anchor":"safe","collectiveChecked":false,"detail":"Guvenli ankraja baglanildi (Klavye Hilesi)."}
+{"utc":"2026-07-23T10:24:38.5196630Z","event":"anchor_attached","elapsed":7.598,"harness":true,"anchor":"unsafe","collectiveChecked":false,"detail":"Guvensiz ankraja baglanildi (Klavye Hilesi)."}
+{"utc":"2026-07-23T10:24:39.4693660Z","event":"collective_protection_checked","elapsed":8.548,"harness":true,"anchor":"unsafe","collectiveChecked":true,"detail":"Toplu koruma kontrolleri tamamlandı (Klavye Hilesi)."}
+{"utc":"2026-07-23T10:24:42.1249238Z","event":"collective_protection_checked","elapsed":11.203,"harness":true,"anchor":"unsafe","collectiveChecked":true,"detail":"Toplu koruma kontrolleri tamamlandı (Klavye Hilesi)."}
+{"utc":"2026-07-23T10:24:42.8243636Z","event":"anchor_attached","elapsed":11.903,"harness":true,"anchor":"safe","collectiveChecked":true,"detail":"Guvenli ankraja baglanildi (Klavye Hilesi)."}
+{"utc":"2026-07-23T10:24:42.8243636Z","event":"safety_check_completed","elapsed":11.903,"harness":true,"anchor":"safe","collectiveChecked":true,"detail":"Güvenlik kontrolleri ve ankraj bağlantısı tamamlandı. Tırmanış aşamasına geçildi."}
+{"utc":"2026-07-23T10:24:45.8465888Z","event":"work_completed","elapsed":14.925,"harness":true,"anchor":"safe","collectiveChecked":true,"detail":"Bakim gorevi tamamlandi."}
+{"utc":"2026-07-23T10:24:45.8486353Z","event":"disturbance_started","elapsed":14.925,"harness":true,"anchor":"safe","collectiveChecked":true,"detail":"Ruzgar/sarsinti olayi tetiklendi. Baslangic siddeti: 0,05"}
+{"utc":"2026-07-23T10:24:48.5117669Z","event":"safe_retreat","elapsed":17.590,"harness":true,"anchor":"safe","collectiveChecked":true,"detail":"Kullanıcı riski fark ederek güvenli bölgeye geri çekildi."}
+{"utc":"2026-07-23T10:24:48.5133177Z","event":"scenario_ended","elapsed":17.590,"harness":true,"anchor":"safe","collectiveChecked":true,"detail":"Senaryo bitti. Sonuc: Eğitim Tamamlandı: Riski fark ederek güvenli alana geri çekildiniz. | Skor: 100"}
+{"utc":"2026-07-23T11:33:58.1919443Z","event":"scenario_init","elapsed":0.000,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"Senaryo 1 baslatildi."}
+{"utc":"2026-07-23T11:34:19.3367483Z","event":"mode_selected","elapsed":19.982,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"EĞİTİM MODU seçildi."}
+{"utc":"2026-07-23T11:34:19.3372541Z","event":"briefing_completed","elapsed":19.982,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"Kullanici brifingi tamamladi."}
+{"utc":"2026-07-23T11:34:31.2319852Z","event":"warning","elapsed":31.867,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Emniyet kemeri bacak/göğüs tokaları sıkılmadan GEVŞEK giyildi!"}
+{"utc":"2026-07-23T11:34:31.2319852Z","event":"harness_equipped_loose","elapsed":31.867,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Emniyet kemeri GEVŞEK/HATALI giyildi!"}
+{"utc":"2026-07-23T11:34:32.1675529Z","event":"harness_pattern_completed","elapsed":32.813,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Kemer tokaları ve bacak bantları buton örüntüsüyle (Sol Grip + Sağ Grip + Trigger) eksiksiz sıkıldı."}
+{"utc":"2026-07-23T11:34:42.1964833Z","event":"preparation_completed","elapsed":42.839,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"KKD hazırlığı tamamlandı. Güvenlik kontrolü (SAFETY_CHECK) aşamasına geçildi."}
+{"utc":"2026-07-23T11:34:56.2771138Z","event":"safe_retreat","elapsed":56.920,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Kullanıcı riski fark ederek güvenli bölgeye geri çekildi."}
+{"utc":"2026-07-23T11:34:56.2781137Z","event":"scenario_ended","elapsed":56.920,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Senaryo bitti. Sonuc: Eğitim Tamamlandı: Riski fark ederek güvenli alana geri çekildiniz. | Skor: 50"}
+{"utc":"2026-07-23T11:45:38.0415084Z","event":"scenario_init","elapsed":0.000,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"Senaryo 1 baslatildi."}
+{"utc":"2026-07-23T11:45:48.9467677Z","event":"mode_selected","elapsed":9.654,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"EĞİTİM MODU seçildi."}
+{"utc":"2026-07-23T11:45:48.9498235Z","event":"briefing_completed","elapsed":9.654,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"Kullanici brifingi tamamladi."}
+{"utc":"2026-07-23T11:45:53.8623899Z","event":"warning","elapsed":14.568,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Emniyet kemeri bacak/göğüs tokaları sıkılmadan GEVŞEK giyildi!"}
+{"utc":"2026-07-23T11:45:53.8623899Z","event":"harness_equipped_loose","elapsed":14.568,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Emniyet kemeri GEVŞEK/HATALI giyildi!"}
+{"utc":"2026-07-23T11:46:01.1274741Z","event":"harness_pattern_completed","elapsed":21.833,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Kemer tokaları ve bacak bantları buton örüntüsüyle (Sol Grip + Sağ Grip + Trigger) eksiksiz sıkıldı."}
+{"utc":"2026-07-23T11:46:08.0175436Z","event":"preparation_completed","elapsed":28.721,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"KKD hazırlığı tamamlandı. Güvenlik kontrolü (SAFETY_CHECK) aşamasına geçildi."}
+{"utc":"2026-07-23T11:46:47.2015938Z","event":"anchor_attached","elapsed":67.908,"harness":true,"anchor":"safe","collectiveChecked":false,"detail":"Guvenli ankraja baglanildi (Klavye Hilesi)."}
+{"utc":"2026-07-23T11:46:49.1112517Z","event":"collective_protection_checked","elapsed":69.818,"harness":true,"anchor":"safe","collectiveChecked":true,"detail":"Toplu koruma kontrolleri tamamlandı (Klavye Hilesi)."}
+{"utc":"2026-07-23T11:46:49.1112517Z","event":"safety_check_completed","elapsed":69.818,"harness":true,"anchor":"safe","collectiveChecked":true,"detail":"Güvenlik kontrolleri ve ankraj bağlantısı tamamlandı. Tırmanış aşamasına geçildi."}
+{"utc":"2026-07-23T11:46:55.2151681Z","event":"work_completed","elapsed":75.922,"harness":true,"anchor":"safe","collectiveChecked":true,"detail":"Bakim gorevi tamamlandi."}
+{"utc":"2026-07-23T11:46:55.2166770Z","event":"disturbance_started","elapsed":75.922,"harness":true,"anchor":"safe","collectiveChecked":true,"detail":"Ruzgar/sarsinti olayi tetiklendi. Baslangic siddeti: 0,05"}
+{"utc":"2026-07-23T11:47:05.2161307Z","event":"fall_triggered","elapsed":85.922,"harness":true,"anchor":"safe","collectiveChecked":true,"detail":"Kullanici dustu fakat lanyard yakaladı."}
+{"utc":"2026-07-23T11:47:06.7207278Z","event":"scenario_ended","elapsed":87.427,"harness":true,"anchor":"safe","collectiveChecked":true,"detail":"Senaryo bitti. Sonuc: Dusus Yasandi - Emniyet Kemeri Hayat Kurtardi | Skor: 90"}
+{"utc":"2026-07-23T11:53:39.0040180Z","event":"scenario_init","elapsed":0.000,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"Senaryo 1 baslatildi."}
+{"utc":"2026-07-23T11:53:50.1572317Z","event":"mode_selected","elapsed":9.886,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"EĞİTİM MODU seçildi."}
+{"utc":"2026-07-23T11:53:50.1592317Z","event":"briefing_completed","elapsed":9.886,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"Kullanici brifingi tamamladi."}
+{"utc":"2026-07-23T11:53:53.7934553Z","event":"warning","elapsed":13.522,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Emniyet kemeri bacak/göğüs tokaları sıkılmadan GEVŞEK giyildi!"}
+{"utc":"2026-07-23T11:53:53.7944554Z","event":"harness_equipped_loose","elapsed":13.522,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Emniyet kemeri GEVŞEK/HATALI giyildi!"}
+{"utc":"2026-07-23T11:53:59.4748214Z","event":"harness_pattern_completed","elapsed":19.204,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Kemer tokaları ve bacak bantları buton örüntüsüyle (Sol Grip + Sağ Grip + Trigger) eksiksiz sıkıldı."}
+{"utc":"2026-07-23T11:54:05.0885844Z","event":"preparation_completed","elapsed":24.814,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"KKD hazırlığı tamamlandı. Güvenlik kontrolü (SAFETY_CHECK) aşamasına geçildi."}
+{"utc":"2026-07-23T11:54:18.6409890Z","event":"anchor_attached","elapsed":38.370,"harness":true,"anchor":"safe","collectiveChecked":false,"detail":"Guvenli ankraja baglanildi (Klavye Hilesi)."}
+{"utc":"2026-07-23T11:54:27.5435107Z","event":"collective_protection_checked","elapsed":47.272,"harness":true,"anchor":"safe","collectiveChecked":true,"detail":"Toplu koruma kontrolleri tamamlandı (Klavye Hilesi)."}
+{"utc":"2026-07-23T11:54:27.5435107Z","event":"safety_check_completed","elapsed":47.272,"harness":true,"anchor":"safe","collectiveChecked":true,"detail":"Güvenlik kontrolleri ve ankraj bağlantısı tamamlandı. Tırmanış aşamasına geçildi."}
+{"utc":"2026-07-23T11:54:31.5287444Z","event":"work_completed","elapsed":51.258,"harness":true,"anchor":"safe","collectiveChecked":true,"detail":"Bakim gorevi tamamlandi."}
+{"utc":"2026-07-23T11:54:31.5307446Z","event":"disturbance_started","elapsed":51.258,"harness":true,"anchor":"safe","collectiveChecked":true,"detail":"Ruzgar/sarsinti olayi tetiklendi. Baslangic siddeti: 0,05"}
+{"utc":"2026-07-23T11:54:41.5428060Z","event":"fall_triggered","elapsed":61.271,"harness":true,"anchor":"safe","collectiveChecked":true,"detail":"Kullanici dustu fakat lanyard yakaladı."}
+{"utc":"2026-07-23T11:54:43.0434342Z","event":"scenario_ended","elapsed":62.772,"harness":true,"anchor":"safe","collectiveChecked":true,"detail":"Senaryo bitti. Sonuc: Dusus Yasandi - Emniyet Kemeri Hayat Kurtardi | Skor: 90"}
+{"utc":"2026-07-23T11:54:56.5203388Z","event":"scenario_init","elapsed":0.000,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"Senaryo 1 baslatildi."}
+{"utc":"2026-07-23T11:55:05.9030539Z","event":"mode_selected","elapsed":8.053,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"EĞİTİM MODU seçildi."}
+{"utc":"2026-07-23T11:55:05.9050543Z","event":"briefing_completed","elapsed":8.053,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"Kullanici brifingi tamamladi."}
+{"utc":"2026-07-23T11:55:08.9008916Z","event":"warning","elapsed":11.051,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Emniyet kemeri bacak/göğüs tokaları sıkılmadan GEVŞEK giyildi!"}
+{"utc":"2026-07-23T11:55:08.9018918Z","event":"harness_equipped_loose","elapsed":11.051,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Emniyet kemeri GEVŞEK/HATALI giyildi!"}
+{"utc":"2026-07-23T11:55:14.0823321Z","event":"harness_pattern_completed","elapsed":16.232,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Kemer tokaları ve bacak bantları buton örüntüsüyle (Sol Grip + Sağ Grip + Trigger) eksiksiz sıkıldı."}
+{"utc":"2026-07-23T11:55:15.5305156Z","event":"preparation_completed","elapsed":17.677,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"KKD hazırlığı tamamlandı. Güvenlik kontrolü (SAFETY_CHECK) aşamasına geçildi."}
+{"utc":"2026-07-23T11:55:24.6953971Z","event":"anchor_attached","elapsed":26.845,"harness":true,"anchor":"safe","collectiveChecked":false,"detail":"Guvenli ankraja baglanildi (Klavye Hilesi)."}
+{"utc":"2026-07-23T11:55:25.8885146Z","event":"collective_protection_checked","elapsed":28.038,"harness":true,"anchor":"safe","collectiveChecked":true,"detail":"Toplu koruma kontrolleri tamamlandı (Klavye Hilesi)."}
+{"utc":"2026-07-23T11:55:25.8885146Z","event":"safety_check_completed","elapsed":28.038,"harness":true,"anchor":"safe","collectiveChecked":true,"detail":"Güvenlik kontrolleri ve ankraj bağlantısı tamamlandı. Tırmanış aşamasına geçildi."}
+{"utc":"2026-07-23T11:55:29.1657456Z","event":"work_completed","elapsed":31.316,"harness":true,"anchor":"safe","collectiveChecked":true,"detail":"Bakim gorevi tamamlandi."}
+{"utc":"2026-07-23T11:55:29.1662500Z","event":"disturbance_started","elapsed":31.316,"harness":true,"anchor":"safe","collectiveChecked":true,"detail":"Ruzgar/sarsinti olayi tetiklendi. Baslangic siddeti: 0,05"}
+{"utc":"2026-07-23T11:55:39.1790159Z","event":"fall_triggered","elapsed":41.328,"harness":true,"anchor":"safe","collectiveChecked":true,"detail":"Kullanici dustu fakat lanyard yakaladı."}
+{"utc":"2026-07-23T11:55:40.6790614Z","event":"scenario_ended","elapsed":42.829,"harness":true,"anchor":"safe","collectiveChecked":true,"detail":"Senaryo bitti. Sonuc: Dusus Yasandi - Emniyet Kemeri Hayat Kurtardi | Skor: 90"}
+{"utc":"2026-07-23T11:58:07.1571661Z","event":"scenario_init","elapsed":0.000,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"Senaryo 1 baslatildi."}
+{"utc":"2026-07-23T11:58:13.9316691Z","event":"mode_selected","elapsed":5.505,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"EĞİTİM MODU seçildi."}
+{"utc":"2026-07-23T11:58:13.9331514Z","event":"briefing_completed","elapsed":5.505,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"Kullanici brifingi tamamladi."}
+{"utc":"2026-07-23T11:58:16.7346010Z","event":"warning","elapsed":8.309,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Emniyet kemeri bacak/göğüs tokaları sıkılmadan GEVŞEK giyildi!"}
+{"utc":"2026-07-23T11:58:16.7356051Z","event":"harness_equipped_loose","elapsed":8.309,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Emniyet kemeri GEVŞEK/HATALI giyildi!"}
+{"utc":"2026-07-23T11:58:24.1524032Z","event":"harness_pattern_completed","elapsed":15.726,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Kemer tokaları ve bacak bantları buton örüntüsüyle (Sol Grip + Sağ Grip + Trigger) eksiksiz sıkıldı."}
+{"utc":"2026-07-23T11:58:25.5856739Z","event":"preparation_completed","elapsed":17.157,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"KKD hazırlığı tamamlandı. Güvenlik kontrolü (SAFETY_CHECK) aşamasına geçildi."}
+{"utc":"2026-07-23T11:58:45.7910721Z","event":"collective_protection_checked","elapsed":37.365,"harness":true,"anchor":"none","collectiveChecked":true,"detail":"Toplu koruma kontrolleri tamamlandı (Klavye Hilesi)."}
+{"utc":"2026-07-23T11:59:37.8400471Z","event":"anchor_attached","elapsed":89.414,"harness":true,"anchor":"safe","collectiveChecked":true,"detail":"Guvenli ankraja baglanildi (Klavye Hilesi)."}
+{"utc":"2026-07-23T11:59:37.8400471Z","event":"safety_check_completed","elapsed":89.414,"harness":true,"anchor":"safe","collectiveChecked":true,"detail":"Güvenlik kontrolleri ve ankraj bağlantısı tamamlandı. Tırmanış aşamasına geçildi."}
+{"utc":"2026-07-23T11:59:39.1941420Z","event":"anchor_attached","elapsed":90.768,"harness":true,"anchor":"safe","collectiveChecked":true,"detail":"Guvenli ankraja baglanildi (Klavye Hilesi)."}
+{"utc":"2026-07-23T11:59:40.5965000Z","event":"collective_protection_checked","elapsed":92.170,"harness":true,"anchor":"safe","collectiveChecked":true,"detail":"Toplu koruma kontrolleri tamamlandı (Klavye Hilesi)."}
+{"utc":"2026-07-23T11:59:45.7947327Z","event":"work_completed","elapsed":97.369,"harness":true,"anchor":"safe","collectiveChecked":true,"detail":"Bakim gorevi tamamlandi."}
+{"utc":"2026-07-23T11:59:45.7957227Z","event":"disturbance_started","elapsed":97.369,"harness":true,"anchor":"safe","collectiveChecked":true,"detail":"Ruzgar/sarsinti olayi tetiklendi. Baslangic siddeti: 0,05"}
+{"utc":"2026-07-23T11:59:55.8102769Z","event":"fall_triggered","elapsed":107.384,"harness":true,"anchor":"safe","collectiveChecked":true,"detail":"Kullanici dustu fakat lanyard yakaladı."}
+{"utc":"2026-07-23T11:59:57.3116930Z","event":"scenario_ended","elapsed":108.885,"harness":true,"anchor":"safe","collectiveChecked":true,"detail":"Senaryo bitti. Sonuc: Dusus Yasandi - Emniyet Kemeri Hayat Kurtardi | Skor: 90"}
+{"utc":"2026-07-23T12:19:37.9833273Z","event":"scenario_init","elapsed":0.000,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"Senaryo 1 baslatildi."}
+{"utc":"2026-07-23T12:19:48.5524942Z","event":"mode_selected","elapsed":9.158,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"EĞİTİM MODU seçildi."}
+{"utc":"2026-07-23T12:19:48.5544917Z","event":"briefing_completed","elapsed":9.158,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"Kullanici brifingi tamamladi."}
+{"utc":"2026-07-23T12:19:53.2423645Z","event":"warning","elapsed":13.837,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Emniyet kemeri bacak/göğüs tokaları sıkılmadan GEVŞEK giyildi!"}
+{"utc":"2026-07-23T12:19:53.2433602Z","event":"harness_equipped_loose","elapsed":13.837,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Emniyet kemeri GEVŞEK/HATALI giyildi!"}
+{"utc":"2026-07-23T12:19:55.0243258Z","event":"harness_pattern_completed","elapsed":15.629,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Kemer tokaları ve bacak bantları buton örüntüsüyle (Sol Grip + Sağ Grip + Trigger) eksiksiz sıkıldı."}
+{"utc":"2026-07-23T12:20:01.2901217Z","event":"preparation_completed","elapsed":21.892,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"KKD hazırlığı tamamlandı. Güvenlik kontrolü (SAFETY_CHECK) aşamasına geçildi."}
+{"utc":"2026-07-23T12:20:35.7823006Z","event":"anchor_attached","elapsed":56.387,"harness":true,"anchor":"safe","collectiveChecked":false,"detail":"Guvenli ankraja baglanildi (Klavye Hilesi)."}
+{"utc":"2026-07-23T12:20:36.9279339Z","event":"collective_protection_checked","elapsed":57.533,"harness":true,"anchor":"safe","collectiveChecked":true,"detail":"Toplu koruma kontrolleri tamamlandı (Klavye Hilesi)."}
+{"utc":"2026-07-23T12:20:36.9289267Z","event":"safety_check_completed","elapsed":57.533,"harness":true,"anchor":"safe","collectiveChecked":true,"detail":"Güvenlik kontrolleri ve ankraj bağlantısı tamamlandı. Tırmanış aşamasına geçildi."}
+{"utc":"2026-07-23T12:20:39.4415678Z","event":"work_completed","elapsed":60.047,"harness":true,"anchor":"safe","collectiveChecked":true,"detail":"Bakim gorevi tamamlandi."}
+{"utc":"2026-07-23T12:20:39.4425678Z","event":"disturbance_started","elapsed":60.047,"harness":true,"anchor":"safe","collectiveChecked":true,"detail":"Ruzgar/sarsinti olayi tetiklendi. Baslangic siddeti: 0,05"}
+{"utc":"2026-07-23T12:20:49.4526991Z","event":"fall_triggered","elapsed":70.058,"harness":true,"anchor":"safe","collectiveChecked":true,"detail":"Kullanici dustu fakat lanyard yakaladı."}
+{"utc":"2026-07-23T12:20:50.9542396Z","event":"scenario_ended","elapsed":71.559,"harness":true,"anchor":"safe","collectiveChecked":true,"detail":"Senaryo bitti. Sonuc: Dusus Yasandi - Emniyet Kemeri Hayat Kurtardi | Skor: 90"}
+{"utc":"2026-07-23T12:26:34.0413839Z","event":"scenario_init","elapsed":0.000,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"Senaryo 1 baslatildi."}
+{"utc":"2026-07-23T12:26:43.0927458Z","event":"mode_selected","elapsed":7.671,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"EĞİTİM MODU seçildi."}
+{"utc":"2026-07-23T12:26:43.0937457Z","event":"briefing_completed","elapsed":7.671,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"Kullanici brifingi tamamladi."}
+{"utc":"2026-07-23T12:26:45.1248314Z","event":"warning","elapsed":9.698,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Emniyet kemeri bacak/göğüs tokaları sıkılmadan GEVŞEK giyildi!"}
+{"utc":"2026-07-23T12:26:45.1258350Z","event":"harness_equipped_loose","elapsed":9.698,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Emniyet kemeri GEVŞEK/HATALI giyildi!"}
+{"utc":"2026-07-23T12:26:58.6493333Z","event":"harness_pattern_completed","elapsed":23.227,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Kemer tokaları ve bacak bantları buton örüntüsüyle (Sol Grip + Sağ Grip + Trigger) eksiksiz sıkıldı."}
+{"utc":"2026-07-23T12:27:00.9292116Z","event":"preparation_completed","elapsed":25.504,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"KKD hazırlığı tamamlandı. Güvenlik kontrolü (SAFETY_CHECK) aşamasına geçildi."}
+{"utc":"2026-07-23T12:27:28.0168973Z","event":"anchor_attached","elapsed":52.595,"harness":true,"anchor":"safe","collectiveChecked":false,"detail":"Guvenli ankraja baglanildi (Klavye Hilesi)."}
+{"utc":"2026-07-23T12:27:30.3292652Z","event":"collective_protection_checked","elapsed":54.908,"harness":true,"anchor":"safe","collectiveChecked":true,"detail":"Toplu koruma kontrolleri tamamlandı (Klavye Hilesi)."}
+{"utc":"2026-07-23T12:27:30.3302652Z","event":"safety_check_completed","elapsed":54.908,"harness":true,"anchor":"safe","collectiveChecked":true,"detail":"Güvenlik kontrolleri ve ankraj bağlantısı tamamlandı. Tırmanış aşamasına geçildi."}
+{"utc":"2026-07-23T12:27:33.1191645Z","event":"work_completed","elapsed":57.698,"harness":true,"anchor":"safe","collectiveChecked":true,"detail":"Bakim gorevi tamamlandi."}
+{"utc":"2026-07-23T12:27:33.1211622Z","event":"disturbance_started","elapsed":57.698,"harness":true,"anchor":"safe","collectiveChecked":true,"detail":"Ruzgar/sarsinti olayi tetiklendi. Baslangic siddeti: 0,05"}
+{"utc":"2026-07-23T12:27:43.1241326Z","event":"fall_triggered","elapsed":67.702,"harness":true,"anchor":"safe","collectiveChecked":true,"detail":"Kullanici dustu fakat lanyard yakaladı."}
+{"utc":"2026-07-23T12:27:44.6287629Z","event":"scenario_ended","elapsed":69.206,"harness":true,"anchor":"safe","collectiveChecked":true,"detail":"Senaryo bitti. Sonuc: Dusus Yasandi - Emniyet Kemeri Hayat Kurtardi | Skor: 90"}
+{"utc":"2026-07-23T12:28:52.3271980Z","event":"scenario_init","elapsed":0.000,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"Senaryo 1 baslatildi."}
+{"utc":"2026-07-23T12:29:06.0011487Z","event":"mode_selected","elapsed":12.222,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"EĞİTİM MODU seçildi."}
+{"utc":"2026-07-23T12:29:06.0021487Z","event":"briefing_completed","elapsed":12.222,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"Kullanici brifingi tamamladi."}
+{"utc":"2026-07-23T12:29:11.5002118Z","event":"warning","elapsed":17.721,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Emniyet kemeri bacak/göğüs tokaları sıkılmadan GEVŞEK giyildi!"}
+{"utc":"2026-07-23T12:29:11.5002118Z","event":"harness_equipped_loose","elapsed":17.721,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Emniyet kemeri GEVŞEK/HATALI giyildi!"}
+{"utc":"2026-07-23T12:29:14.1961965Z","event":"harness_pattern_completed","elapsed":20.417,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Kemer tokaları ve bacak bantları buton örüntüsüyle (Sol Grip + Sağ Grip + Trigger) eksiksiz sıkıldı."}
+{"utc":"2026-07-23T12:29:18.4619499Z","event":"preparation_completed","elapsed":24.680,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"KKD hazırlığı tamamlandı. Güvenlik kontrolü (SAFETY_CHECK) aşamasına geçildi."}
+{"utc":"2026-07-23T12:29:26.9917019Z","event":"anchor_attached","elapsed":33.213,"harness":true,"anchor":"safe","collectiveChecked":false,"detail":"Guvenli ankraja baglanildi (Klavye Hilesi)."}
+{"utc":"2026-07-23T12:29:28.1525735Z","event":"collective_protection_checked","elapsed":34.374,"harness":true,"anchor":"safe","collectiveChecked":true,"detail":"Toplu koruma kontrolleri tamamlandı (Klavye Hilesi)."}
+{"utc":"2026-07-23T12:29:28.1535734Z","event":"safety_check_completed","elapsed":34.374,"harness":true,"anchor":"safe","collectiveChecked":true,"detail":"Güvenlik kontrolleri ve ankraj bağlantısı tamamlandı. Tırmanış aşamasına geçildi."}
+{"utc":"2026-07-23T12:29:41.9229413Z","event":"work_completed","elapsed":48.144,"harness":true,"anchor":"safe","collectiveChecked":true,"detail":"Bakim gorevi tamamlandi."}
+{"utc":"2026-07-23T12:29:41.9244442Z","event":"disturbance_started","elapsed":48.144,"harness":true,"anchor":"safe","collectiveChecked":true,"detail":"Ruzgar/sarsinti olayi tetiklendi. Baslangic siddeti: 0,05"}
+{"utc":"2026-07-23T12:29:51.9265957Z","event":"fall_triggered","elapsed":58.147,"harness":true,"anchor":"safe","collectiveChecked":true,"detail":"Kullanici dustu fakat lanyard yakaladı."}
+{"utc":"2026-07-23T12:29:53.4353340Z","event":"scenario_ended","elapsed":59.656,"harness":true,"anchor":"safe","collectiveChecked":true,"detail":"Senaryo bitti. Sonuc: Dusus Yasandi - Emniyet Kemeri Hayat Kurtardi | Skor: 90"}
+{"utc":"2026-07-23T12:50:49.3667314Z","event":"scenario_init","elapsed":0.000,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"Senaryo 1 baslatildi."}
+{"utc":"2026-07-23T12:51:32.9601354Z","event":"scenario_init","elapsed":0.000,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"Senaryo 1 baslatildi."}
+{"utc":"2026-07-23T12:51:38.4783295Z","event":"mode_selected","elapsed":4.304,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"EĞİTİM MODU seçildi."}
+{"utc":"2026-07-23T12:51:38.4793278Z","event":"briefing_completed","elapsed":4.304,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"Kullanici brifingi tamamladi."}
+{"utc":"2026-07-23T12:51:42.3796063Z","event":"warning","elapsed":8.193,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Emniyet kemeri bacak/göğüs tokaları sıkılmadan GEVŞEK giyildi!"}
+{"utc":"2026-07-23T12:51:42.3801124Z","event":"harness_equipped_loose","elapsed":8.193,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Emniyet kemeri GEVŞEK/HATALI giyildi!"}
+{"utc":"2026-07-23T12:51:46.6182100Z","event":"harness_pattern_completed","elapsed":12.444,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Kemer tokaları ve bacak bantları buton örüntüsüyle (Sol Grip + Sağ Grip + Trigger) eksiksiz sıkıldı."}
+{"utc":"2026-07-23T12:51:52.8000692Z","event":"preparation_completed","elapsed":18.624,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"KKD hazırlığı tamamlandı. Güvenlik kontrolü (SAFETY_CHECK) aşamasına geçildi."}
+{"utc":"2026-07-23T12:52:01.1879789Z","event":"anchor_attached","elapsed":27.014,"harness":true,"anchor":"safe","collectiveChecked":false,"detail":"Guvenli ankraja baglanildi (Klavye Hilesi)."}
+{"utc":"2026-07-23T12:52:02.5748661Z","event":"anchor_attached","elapsed":28.401,"harness":true,"anchor":"unsafe","collectiveChecked":false,"detail":"Guvensiz ankraja baglanildi (Klavye Hilesi)."}
+{"utc":"2026-07-23T12:52:04.7826741Z","event":"collective_protection_checked","elapsed":30.609,"harness":true,"anchor":"unsafe","collectiveChecked":true,"detail":"Toplu koruma kontrolleri tamamlandı (Klavye Hilesi)."}
+{"utc":"2026-07-23T12:52:08.0735619Z","event":"anchor_attached","elapsed":33.900,"harness":true,"anchor":"safe","collectiveChecked":true,"detail":"Guvenli ankraja baglanildi (Klavye Hilesi)."}
+{"utc":"2026-07-23T12:52:08.0745617Z","event":"safety_check_completed","elapsed":33.900,"harness":true,"anchor":"safe","collectiveChecked":true,"detail":"Güvenlik kontrolleri ve ankraj bağlantısı tamamlandı. Tırmanış aşamasına geçildi."}
+{"utc":"2026-07-23T12:52:09.2537218Z","event":"collective_protection_checked","elapsed":35.081,"harness":true,"anchor":"safe","collectiveChecked":true,"detail":"Toplu koruma kontrolleri tamamlandı (Klavye Hilesi)."}
+{"utc":"2026-07-23T12:52:11.8792918Z","event":"work_completed","elapsed":37.705,"harness":true,"anchor":"safe","collectiveChecked":true,"detail":"Bakim gorevi tamamlandi."}
+{"utc":"2026-07-23T12:52:11.8797972Z","event":"disturbance_started","elapsed":37.705,"harness":true,"anchor":"safe","collectiveChecked":true,"detail":"Ruzgar/sarsinti olayi tetiklendi. Baslangic siddeti: 0,05"}
+{"utc":"2026-07-23T12:55:11.8457901Z","event":"scenario_init","elapsed":0.000,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"Senaryo 1 baslatildi."}
+{"utc":"2026-07-23T12:55:21.4138494Z","event":"mode_selected","elapsed":8.346,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"EĞİTİM MODU seçildi."}
+{"utc":"2026-07-23T12:55:21.4148452Z","event":"briefing_completed","elapsed":8.346,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"Kullanici brifingi tamamladi."}
+{"utc":"2026-07-23T12:55:22.8715157Z","event":"warning","elapsed":9.804,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Emniyet kemeri bacak/göğüs tokaları sıkılmadan GEVŞEK giyildi!"}
+{"utc":"2026-07-23T12:55:22.8725194Z","event":"harness_equipped_loose","elapsed":9.804,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Emniyet kemeri GEVŞEK/HATALI giyildi!"}
+{"utc":"2026-07-23T12:55:35.5943473Z","event":"harness_pattern_completed","elapsed":22.526,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Kemer tokaları ve bacak bantları buton örüntüsüyle (Sol Grip + Sağ Grip + Trigger) eksiksiz sıkıldı."}
+{"utc":"2026-07-23T12:55:49.1376379Z","event":"preparation_completed","elapsed":36.067,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"KKD hazırlığı tamamlandı. Güvenlik kontrolü (SAFETY_CHECK) aşamasına geçildi."}
+{"utc":"2026-07-23T12:55:55.2488683Z","event":"anchor_attached","elapsed":42.181,"harness":true,"anchor":"safe","collectiveChecked":false,"detail":"Guvenli ankraja baglanildi (Klavye Hilesi)."}
+{"utc":"2026-07-23T12:55:56.8295777Z","event":"collective_protection_checked","elapsed":43.762,"harness":true,"anchor":"safe","collectiveChecked":true,"detail":"Toplu koruma kontrolleri tamamlandı (Klavye Hilesi)."}
+{"utc":"2026-07-23T12:55:56.8305777Z","event":"safety_check_completed","elapsed":43.762,"harness":true,"anchor":"safe","collectiveChecked":true,"detail":"Güvenlik kontrolleri ve ankraj bağlantısı tamamlandı. Tırmanış aşamasına geçildi."}
+{"utc":"2026-07-23T12:55:59.5250902Z","event":"work_completed","elapsed":46.457,"harness":true,"anchor":"safe","collectiveChecked":true,"detail":"Bakim gorevi tamamlandi."}
+{"utc":"2026-07-23T12:55:59.5261120Z","event":"disturbance_started","elapsed":46.457,"harness":true,"anchor":"safe","collectiveChecked":true,"detail":"Ruzgar/sarsinti olayi tetiklendi. Baslangic siddeti: 0,05"}
+{"utc":"2026-07-23T12:56:09.5529638Z","event":"fall_triggered","elapsed":56.484,"harness":true,"anchor":"safe","collectiveChecked":true,"detail":"Kullanici dustu fakat lanyard yakaladı."}
+{"utc":"2026-07-23T12:56:11.0697103Z","event":"scenario_ended","elapsed":58.001,"harness":true,"anchor":"safe","collectiveChecked":true,"detail":"Senaryo bitti. Sonuc: Dusus Yasandi - Emniyet Kemeri Hayat Kurtardi | Skor: 90"}
+{"utc":"2026-07-23T13:04:43.9932033Z","event":"scenario_init","elapsed":0.000,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"Senaryo 1 baslatildi."}
+{"utc":"2026-07-23T13:04:50.0411209Z","event":"mode_selected","elapsed":4.815,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"EĞİTİM MODU seçildi."}
+{"utc":"2026-07-23T13:04:50.0426284Z","event":"briefing_completed","elapsed":4.815,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"Kullanici brifingi tamamladi."}
+{"utc":"2026-07-23T13:04:52.2080051Z","event":"warning","elapsed":6.982,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Emniyet kemeri bacak/göğüs tokaları sıkılmadan GEVŞEK giyildi!"}
+{"utc":"2026-07-23T13:04:52.2080051Z","event":"harness_equipped_loose","elapsed":6.982,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Emniyet kemeri GEVŞEK/HATALI giyildi!"}
+{"utc":"2026-07-23T13:04:55.5701133Z","event":"harness_pattern_completed","elapsed":10.344,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Kemer tokaları ve bacak bantları buton örüntüsüyle (Sol Grip + Sağ Grip + Trigger) eksiksiz sıkıldı."}
+{"utc":"2026-07-23T13:04:58.5161497Z","event":"preparation_completed","elapsed":13.288,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"KKD hazırlığı tamamlandı. Güvenlik kontrolü (SAFETY_CHECK) aşamasına geçildi."}
+{"utc":"2026-07-23T13:05:07.4176706Z","event":"anchor_attached","elapsed":22.192,"harness":true,"anchor":"safe","collectiveChecked":false,"detail":"Guvenli ankraja baglanildi (Klavye Hilesi)."}
+{"utc":"2026-07-23T13:05:08.6096913Z","event":"collective_protection_checked","elapsed":23.384,"harness":true,"anchor":"safe","collectiveChecked":true,"detail":"Toplu koruma kontrolleri tamamlandı (Klavye Hilesi)."}
+{"utc":"2026-07-23T13:05:08.6106915Z","event":"safety_check_completed","elapsed":23.384,"harness":true,"anchor":"safe","collectiveChecked":true,"detail":"Güvenlik kontrolleri ve ankraj bağlantısı tamamlandı. Tırmanış aşamasına geçildi."}
+{"utc":"2026-07-23T13:05:11.9293974Z","event":"work_completed","elapsed":26.704,"harness":true,"anchor":"safe","collectiveChecked":true,"detail":"Bakim gorevi tamamlandi."}
+{"utc":"2026-07-23T13:05:11.9303943Z","event":"disturbance_started","elapsed":26.704,"harness":true,"anchor":"safe","collectiveChecked":true,"detail":"Ruzgar/sarsinti olayi tetiklendi. Baslangic siddeti: 0,05"}
+{"utc":"2026-07-23T13:05:21.7469440Z","event":"safe_retreat","elapsed":36.521,"harness":true,"anchor":"safe","collectiveChecked":true,"detail":"Kullanıcı riski fark ederek güvenli bölgeye geri çekildi."}
+{"utc":"2026-07-23T13:05:21.7479439Z","event":"scenario_ended","elapsed":36.521,"harness":true,"anchor":"safe","collectiveChecked":true,"detail":"Senaryo bitti. Sonuc: Eğitim Tamamlandı: Riski fark ederek güvenli alana geri çekildiniz. | Skor: 100"}
+{"utc":"2026-07-23T13:09:32.6237354Z","event":"scenario_init","elapsed":0.000,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"Senaryo 1 baslatildi."}
+{"utc":"2026-07-23T13:09:50.8770893Z","event":"mode_selected","elapsed":17.022,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"EĞİTİM MODU seçildi."}
+{"utc":"2026-07-23T13:09:50.8790893Z","event":"briefing_completed","elapsed":17.022,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"Kullanici brifingi tamamladi."}
+{"utc":"2026-07-23T13:10:14.0133807Z","event":"warning","elapsed":40.158,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Emniyet kemeri bacak/göğüs tokaları sıkılmadan GEVŞEK giyildi!"}
+{"utc":"2026-07-23T13:10:14.0143803Z","event":"harness_equipped_loose","elapsed":40.158,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Emniyet kemeri GEVŞEK/HATALI giyildi!"}
+{"utc":"2026-07-23T13:10:19.4163393Z","event":"harness_pattern_completed","elapsed":45.561,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Kemer tokaları ve bacak bantları buton örüntüsüyle (Sol Grip + Sağ Grip + Trigger) eksiksiz sıkıldı."}
+{"utc":"2026-07-23T13:11:19.9052117Z","event":"scenario_init","elapsed":0.000,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"Senaryo 1 baslatildi."}
+{"utc":"2026-07-23T13:11:30.4697038Z","event":"mode_selected","elapsed":9.288,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"EĞİTİM MODU seçildi."}
+{"utc":"2026-07-23T13:11:30.4717038Z","event":"briefing_completed","elapsed":9.288,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"Kullanici brifingi tamamladi."}
+{"utc":"2026-07-23T13:11:41.1486946Z","event":"warning","elapsed":19.966,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Emniyet kemeri bacak/göğüs tokaları sıkılmadan GEVŞEK giyildi!"}
+{"utc":"2026-07-23T13:11:41.1492023Z","event":"harness_equipped_loose","elapsed":19.966,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Emniyet kemeri GEVŞEK/HATALI giyildi!"}
+{"utc":"2026-07-23T13:11:42.9125439Z","event":"harness_pattern_completed","elapsed":21.730,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"Kemer tokaları ve bacak bantları buton örüntüsüyle (Sol Grip + Sağ Grip + Trigger) eksiksiz sıkıldı."}
+{"utc":"2026-07-23T13:12:04.5940494Z","event":"preparation_completed","elapsed":43.396,"harness":true,"anchor":"none","collectiveChecked":false,"detail":"KKD hazırlığı tamamlandı. Güvenlik kontrolü (SAFETY_CHECK) aşamasına geçildi."}
+{"utc":"2026-07-23T13:12:18.5646671Z","event":"anchor_attached","elapsed":57.382,"harness":true,"anchor":"safe","collectiveChecked":false,"detail":"Guvenli ankraja baglanildi (Klavye Hilesi)."}
+{"utc":"2026-07-23T13:12:19.9390293Z","event":"anchor_attached","elapsed":58.757,"harness":true,"anchor":"safe","collectiveChecked":false,"detail":"Guvenli ankraja baglanildi (Klavye Hilesi)."}
+{"utc":"2026-07-23T13:12:20.0773195Z","event":"collective_protection_checked","elapsed":58.895,"harness":true,"anchor":"safe","collectiveChecked":true,"detail":"Toplu koruma kontrolleri tamamlandı (Klavye Hilesi)."}
+{"utc":"2026-07-23T13:12:20.0778252Z","event":"safety_check_completed","elapsed":58.895,"harness":true,"anchor":"safe","collectiveChecked":true,"detail":"Güvenlik kontrolleri ve ankraj bağlantısı tamamlandı. Tırmanış aşamasına geçildi."}
+{"utc":"2026-07-23T13:12:22.7437162Z","event":"work_completed","elapsed":61.561,"harness":true,"anchor":"safe","collectiveChecked":true,"detail":"Bakim gorevi tamamlandi."}
+{"utc":"2026-07-23T13:12:22.7447162Z","event":"disturbance_started","elapsed":61.561,"harness":true,"anchor":"safe","collectiveChecked":true,"detail":"Ruzgar/sarsinti olayi tetiklendi. Baslangic siddeti: 0,05"}
+{"utc":"2026-07-23T13:12:32.7431004Z","event":"fall_triggered","elapsed":71.561,"harness":true,"anchor":"safe","collectiveChecked":true,"detail":"Kullanici dustu fakat lanyard yakaladı."}
+{"utc":"2026-07-23T13:12:34.2568278Z","event":"scenario_ended","elapsed":73.074,"harness":true,"anchor":"safe","collectiveChecked":true,"detail":"Senaryo bitti. Sonuc: Dusus Yasandi - Emniyet Kemeri Hayat Kurtardi | Skor: 90"}
+{"utc":"2026-07-23T13:49:43.4086039Z","event":"scenario_init","elapsed":0.000,"harness":false,"anchor":"none","collectiveChecked":false,"detail":"Senaryo 1 baslatildi."}

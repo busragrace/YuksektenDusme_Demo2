@@ -1,0 +1,14 @@
+newmtl Steel_Metal
+Kd 0.7 0.7 0.73
+Ks 0.9 0.9 0.9
+Ns 64
+
+newmtl Black_Rubber
+Kd 0.15 0.15 0.17
+Ks 0.2 0.2 0.2
+Ns 16
+
+newmtl Red_BrakeLever
+Kd 0.85 0.15 0.1
+Ks 0.5 0.5 0.5
+Ns 32
